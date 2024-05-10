@@ -1,7 +1,7 @@
 
 <p align="center">
      <a href="https://arxiv.org/abs/2405.05173">
-<img width="765" alt="image" src="assets/title.PNG">
+<img width="765" alt="image" src="assets/title.png">
      </a>
    <p align="center">
     <a href="https://scholar.google.com.hk/citations?user=kpMGaNIAAAAJ&hl=zh-CN"><strong>Huaiyuan Xu </strong></a>
