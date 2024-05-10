@@ -24,7 +24,7 @@
 
 # We research 3D Occupancy Perception for Autonomous Driving
 
-This work focuses on 3D dense perception in autonomous driving, encompassing **LiDAR-Centric Occupancy Perception**, **Vision-Centric Occupancy Perception**, and **Multi-Modal Occupancy Perception**. Information fusion techniques for this field are discussed. We believe this will be the most comprehensive survey to date on 3D Occupancy Perception. Please stay tuned!😉😉😉
+This work focuses on 3D dense perception in autonomous driving, encompassing **LiDAR-Centric Occupancy Perception**, **Vision-Centric Occupancy Perception**, and **Multi-Modal Occupancy Perception**. Information fusion techniques for this field are discussed. We believe this will be the most comprehensive survey to date on 3D Occupancy Perception. Please stay tuned!😉😉😉Continually updated.
 
 ### ✨You are welcome to provide us your work with a topic related to 3D occupancy for autonomous driving (involving not only perception, but also applications)!!!
 
