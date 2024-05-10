@@ -60,11 +60,9 @@ directions are discussed. We hope this report will inspire the community and enc
 perception.
 
 </p>
-<!-- <img src="assets/autonomous driving vehicle system.png" width.="50px"> -->
-<!-- <img width="500" alt="image" src="assets/autonomous driving vehicle system.png"> -->
-<div style="text-align:center;">
-  <img width="500" alt="image" src="assets/autonomous driving vehicle system.png">
-</div>
+<p align='center'>
+<img src="assets/autonomous driving vehicle system.png" width="500px">
+</p>
 
 ## Summary of Contents
 - [Introduction](#introduction)
