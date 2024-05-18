@@ -21,6 +21,8 @@
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
          </a>
     <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a>
+    <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a>
+ 
   
 
 # We research 3D Occupancy Perception for Autonomous Driving
