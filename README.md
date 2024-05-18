@@ -59,7 +59,7 @@ current limitations and future research directions are discussed.
 <p align='center'>
 <img src="assets/autonomous driving vehicle system.png" width="500px">
 <p align='center'>
-<img src="assets/a brief history.png" width="800px">
+<img src="assets/a brief history.png" width="1000px">
 </p>
 
 ## Summary of Contents
