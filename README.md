@@ -20,14 +20,16 @@
     <a href='https://arxiv.org/abs/2405.05173'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
          </a>
-    <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a>
-    <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a>
+
+
  
   
 
 # We research 3D Occupancy Perception for Autonomous Driving
 
-This work focuses on 3D dense perception in autonomous driving, encompassing **LiDAR-Centric Occupancy Perception**, **Vision-Centric Occupancy Perception**, and **Multi-Modal Occupancy Perception**. Information fusion techniques for this field are discussed. We believe this will be the most comprehensive survey to date on 3D Occupancy Perception. Please stay tuned!😉😉😉Continually updated.
+This work focuses on 3D dense perception in autonomous driving, encompassing **LiDAR-Centric Occupancy Perception**, **Vision-Centric Occupancy Perception**, and **Multi-Modal Occupancy Perception**. Information fusion techniques for this field are discussed. We believe this will be the most comprehensive survey to date on 3D Occupancy Perception. Please stay tuned!😉😉😉
+
+This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star this repo.
 
 ### ✨You are welcome to provide us your work with a topic related to 3D occupancy for autonomous driving (involving not only perception, but also applications)!!!
 
