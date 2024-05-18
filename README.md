@@ -53,16 +53,7 @@ current limitations and future research directions are discussed.
 
 ## Introduction
 
-3D occupancy perception technology aims to observe and understand dense 3D environments for autonomous vehicles. Owing
-to its comprehensive perception capability, this technology is emerging as a trend in autonomous driving perception systems, and
-is attracting significant attention from both industry and academia. Similar to traditional bird’s-eye view (BEV) perception, 3D
-occupancy perception has the nature of multi-source input and the necessity for information fusion. However, the difference is
-that it captures vertical structures that are ignored by 2D BEV. In this survey, we review the most recent works on 3D occupancy
-perception, and provide in-depth analyses of methodologies with various input modalities. Specifically, we summarize general
-network pipelines, highlight information fusion techniques, and discuss effective network training. We evaluate and analyze the
-occupancy perception performance of the state-of-the-art on the most popular datasets. Furthermore, challenges and future research
-directions are discussed. We hope this report will inspire the community and encourage more research work on 3D occupancy
-perception.
+3D occupancy perception technology aims to observe and understand dense 3D environments for autonomous vehicles. Owing to its comprehensive perception capability, this technology is emerging as a trend in autonomous driving perception systems, and is attracting significant attention from both industry and academia. Similar to traditional bird's-eye view (BEV) perception, 3D occupancy perception has the nature of multi-source input and the necessity for information fusion. However, the difference is that it captures vertical structures that are ignored by 2D BEV. In this survey, we review the most recent works on 3D occupancy perception, and provide in-depth analyses of methodologies with various input modalities. Specifically, we summarize general network pipelines, highlight information fusion techniques, and discuss effective network training. We evaluate and analyze the occupancy perception performance of the state-of-the-art on the most popular datasets. Furthermore, challenges and future research directions are discussed. We hope this paper will inspire the community and encourage more research work on 3D occupancy perception.
 
 </p>
 <p align='center'>
