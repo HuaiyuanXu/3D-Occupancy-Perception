@@ -177,31 +177,31 @@ current limitations and future research directions are discussed.
 ### Segmentation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|3D Panoptic Segmentation|2024|CVPR|PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation|[Code](https://github.com/Robertwyq/PanoOcc)|
-|BEV Segmentation|2024|arXiv|OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks|-|
+|3D Panoptic Segmentation|2024|CVPR|[PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://arxiv.org/abs/2306.10013)|[Code](https://github.com/Robertwyq/PanoOcc)|
+|BEV Segmentation|2024|arXiv|[OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks](https://arxiv.org/abs/2404.14027)|-|
 
 ### Detection
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|3D Object Detection|2024|CVPR|Learning Occupancy for Monocular 3D Object Detection|[Code](https://github.com/SPengLiang/OccupancyM3D)|
-|3D Object Detection|2023|arXiv|SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection|[Code](https://github.com/zhouqiu/SOGDet)|
+|3D Object Detection|2024|CVPR|[Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/abs/2305.15694)|[Code](https://github.com/SPengLiang/OccupancyM3D)|
+|3D Object Detection|2024|AAAI|[SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection](https://arxiv.org/abs/2308.13794)|[Code](https://github.com/zhouqiu/SOGDet)|
 
 ### Dynamic Perception
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|3D Flow Prediction|2024|CVPR|Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications|[Code](https://github.com/haomo-ai/Cam4DOcc)|
+|3D Flow Prediction|2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 
 ### Generation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|Scene Generation|2024|CVPR|SemCity: Semantic Scene Generation with Triplane Diffusion|[Code](https://github.com/zoomin-lee/SemCity)|
+|Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
 
 ### World Models
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving|-|
-|Occupancy Prediction, 3D Object Detection|2024|RA-L|UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving|[Code](https://github.com/chaytonmin/UniScene)|
-|Occupancy Prediction, 3D Object Detection, BEV segmentation, Motion Planning|2023|ICCV|Scene as Occupancy|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
+|Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
+|Occupancy Prediction, 3D Object Detection|2024|RA-L|[UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|Occupancy Prediction, 3D Object Detection, BEV segmentation, Motion Planning|2023|ICCV|[Scene as Occupancy](https://arxiv.org/abs/2306.02851)|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
 
 
 
