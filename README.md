@@ -50,7 +50,7 @@ offers detailed performance comparisons. Furthermore,
 current limitations and future research directions are discussed.
 
 ###  🔥 Important News
-- [2024-05-18]  More Figures have been added to the survey. We reorganize the occupancy-based applications.
+- [2024-05-18]  More figures have been added to the survey. We reorganize the occupancy-based applications.
 - [2024-05-08] The first version of the survey is available on [arXiv](https://arxiv.org/abs/2405.05173). We curate this repository.
 
 
