@@ -49,6 +49,11 @@ effective network training.
 offers detailed performance comparisons. Furthermore,
 current limitations and future research directions are discussed.
 
+###  🔥 Important News
+- [2024-05-18]  More Figures have been added to the survey. We reorganize the occupancy-based applications.
+- [2024-05-08] The first version of the survey is available on [arXiv](https://arxiv.org/abs/2405.05173). We curate this repository.
+
+
 #
 
 ## Introduction
@@ -94,10 +99,6 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2024|IJCAI|Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion|[Code](https://github.com/Arlo0o/StereoScene)|
-|2024|ICRA|RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision|[Code](https://github.com/pmj110119/RenderOcc)|
-|2024|ICRA|MonoOcc: Digging into Monocular Semantic Occupancy Prediction|[Code](https://github.com/ucaszyp/MonoOcc)|
-|2024|ICRA|FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View|-|
 |2024|CVPR|Symphonize 3D Semantic Scene Completion with Contextual Instance Queries|[Code](https://github.com/hustvl/Symphonies)|
 |2024|CVPR|SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction|[Project Page](https://pintang1999.github.io/sparseocc.html)|
 |2024|CVPR|SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction|[Project Page](https://huang-yh.github.io/SelfOcc/)|
@@ -108,6 +109,10 @@ current limitations and future research directions are discussed.
 |2024|CVPR|Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |2024|CVPR|Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
 |2024|CVPR|DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving|-|
+|2024|IJCAI|Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion|[Code](https://github.com/Arlo0o/StereoScene)|
+|2024|ICRA|RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision|[Code](https://github.com/pmj110119/RenderOcc)|
+|2024|ICRA|MonoOcc: Digging into Monocular Semantic Occupancy Prediction|[Code](https://github.com/ucaszyp/MonoOcc)|
+|2024|ICRA|FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View|-|
 |2024|AAAI|Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving|[Code](https://github.com/cskkxjk/Vampire)|
 |2024|AAAI|One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception|-|
 |2024|RA-L|Multi-Camera Unified Pre-Training via 3D Scene Reconstruction|[Code](https://github.com/chaytonmin/UniScene)|
@@ -116,15 +121,15 @@ current limitations and future research directions are discussed.
 |2024|arXiv|InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction|[Code](https://github.com/DanielMing123/InverseMatrixVT3D)|
 |2024|arXiv|Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
 |2024|arXiv|ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers|-|
-|2023|T-IV|3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement|[Code](https://github.com/lvchuandong/ML3DOP)|
+|2023|CVPR|VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion|[Code](https://github.com/NVlabs/VoxFormer)|
+|2023|CVPR|Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction|[Project Page](https://wzzheng.net/TPVFormer/)|
 |2023|NeurIPS|POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images|[Project Page](https://vobecant.github.io/POP3D/)|
 |2023|NeurIPS|Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving|[Project Page](https://tsinghua-mars-lab.github.io/Occ3D/)|
 |2023|ICCV|SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving|[Project Page](https://weiyithu.github.io/SurroundOcc/)|
 |2023|ICCV|Scene as Occupancy|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
 |2023|ICCV|OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction|[Code](https://github.com/zhangyp15/OccFormer)|
 |2023|ICCV|NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space|[Code](https://github.com/Jiawei-Yao0812/NDCScene)|
-|2023|CVPR|VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion|[Code](https://github.com/NVlabs/VoxFormer)|
-|2023|CVPR|Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction|[Project Page](https://wzzheng.net/TPVFormer/)|
+|2023|T-IV|3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement|[Code](https://github.com/lvchuandong/ML3DOP)|
 |2023|arXiv|SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views|[Code](https://github.com/ai4ce/SSCBench)|
 |2023|arXiv|SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints|-|
 |2023|arXiv|OVO: Open-Vocabulary Occupancy|[Code](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)|
@@ -172,13 +177,8 @@ current limitations and future research directions are discussed.
 ### Segmentation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|BEV Segmentation|2024|arXiv|OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks|-|
 |3D Panoptic Segmentation|2024|CVPR|PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation|[Code](https://github.com/Robertwyq/PanoOcc)|
-
-### Flow
-|Specific Task|Year|Venue|Paper Title|Link|
-|:-:|:-:|:-:|-|-|
-|3D Flow Prediction|2024|CVPR|Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications|[Code](https://github.com/haomo-ai/Cam4DOcc)|
+|BEV Segmentation|2024|arXiv|OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks|-|
 
 ### Detection
 |Specific Task|Year|Venue|Paper Title|Link|
@@ -186,16 +186,21 @@ current limitations and future research directions are discussed.
 |3D Object Detection|2024|CVPR|Learning Occupancy for Monocular 3D Object Detection|[Code](https://github.com/SPengLiang/OccupancyM3D)|
 |3D Object Detection|2023|arXiv|SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection|[Code](https://github.com/zhouqiu/SOGDet)|
 
+### Dynamic Perception
+|Specific Task|Year|Venue|Paper Title|Link|
+|:-:|:-:|:-:|-|-|
+|3D Flow Prediction|2024|CVPR|Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 
 ### Generation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
 |Scene Generation|2024|CVPR|SemCity: Semantic Scene Generation with Triplane Diffusion|[Code](https://github.com/zoomin-lee/SemCity)|
 
-### Unified Framework
+### World Models
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
 |Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving|-|
+|Occupancy Prediction, 3D Object Detection|2024|RA-L|UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving|[Code](https://github.com/chaytonmin/UniScene)|
 |Occupancy Prediction, 3D Object Detection, BEV segmentation, Motion Planning|2023|ICCV|Scene as Occupancy|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
 
 
@@ -213,11 +218,10 @@ If you find our survey and repository useful for your research project, please c
 }
 ```
 ## Contact
-
-```
-huaiyuan.xu@polyu.edu.hk
-```
+If you have any questions, please feel free to get in touch:
 ```
 lap-pui.chau@polyu.edu.hk
+huaiyuan.xu@polyu.edu.hk
 ```
+
 
