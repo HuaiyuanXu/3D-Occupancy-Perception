@@ -85,14 +85,14 @@ current limitations and future research directions are discussed.
 ### LiDAR-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2024|AAAI|Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence|[Project Page](https://scsfnet.github.io)|
-|2023|T-IV|Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders|[Code](https://github.com/chaytonmin/Occupancy-MAE)|
-|2023|arXiv|PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction|[Code](https://github.com/wzzheng/PointOcc)|
-|2023|arXiv|LiDAR-based 4D Occupancy Completion and Forecasting|[Project Page](https://ai4ce.github.io/Occ4cast/)|
-|2021|T-PAMI|Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data|-|
-|2021|AAAI|Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion|[Code](https://github.com/yanx27/JS3C-Net)|
-|2020|CoRL|S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds|-|
-|2020|3DV|LMSCNet: Lightweight Multiscale 3D Semantic Completion|[Code](https://github.com/astra-vision/LMSCNet)|
+|2024|AAAI|[Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054)|[Project Page](https://scsfnet.github.io)|
+|2023|T-IV|[Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders](https://arxiv.org/abs/2206.09900)|[Code](https://github.com/chaytonmin/Occupancy-MAE)|
+|2023|arXiv|[PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2308.16896)|[Code](https://github.com/wzzheng/PointOcc)|
+|2023|arXiv|[LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/abs/2310.11239)|[Project Page](https://ai4ce.github.io/Occ4cast/)|
+|2021|T-PAMI|[Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data](https://arxiv.org/abs/2011.09141)|-|
+|2021|AAAI|[Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion](https://arxiv.org/abs/2012.03762)|[Code](https://github.com/yanx27/JS3C-Net)|
+|2020|CoRL|[S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds](https://arxiv.org/abs/2012.09242)|-|
+|2020|3DV|[LMSCNet: Lightweight Multiscale 3D Semantic Completion](https://arxiv.org/abs/2008.10559)|[Code](https://github.com/astra-vision/LMSCNet)|
 
 
 
