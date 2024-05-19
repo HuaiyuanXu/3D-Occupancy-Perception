@@ -151,12 +151,12 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution|-|
-|2024|arXiv|OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving|[Project Page](https://occgen-ad.github.io/)|
-|2024|arXiv|OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction|-|
-|2024|arXiv|Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction|[Project Page](https://rorisis.github.io/Co-Occ_project-page/)|
-|2024|arXiv|Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception|-|
-|2023|ICCV|OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception|[Code](https://github.com/JeffWang987/OpenOccupancy)|
+|2024|arXiv|[Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/abs/2403.08748)|-|
+|2024|arXiv|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
+|2024|arXiv|[OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/abs/2403.01644)|-|
+|2024|arXiv|[Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2404.04561)|[Project Page](https://rorisis.github.io/Co-Occ_project-page/)|
+|2024|arXiv|[Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception](https://arxiv.org/abs/2403.07746)|-|
+|2023|ICCV|[OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception](https://arxiv.org/abs/2303.03991)|[Code](https://github.com/JeffWang987/OpenOccupancy)|
 
 ## 3D Occupancy Datasets
 
