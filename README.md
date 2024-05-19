@@ -99,52 +99,52 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2024|CVPR|Symphonize 3D Semantic Scene Completion with Contextual Instance Queries|[Code](https://github.com/hustvl/Symphonies)|
-|2024|CVPR|SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction|[Project Page](https://pintang1999.github.io/sparseocc.html)|
-|2024|CVPR|SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction|[Project Page](https://huang-yh.github.io/SelfOcc/)|
-|2024|CVPR|PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation|[Code](https://github.com/Robertwyq/PanoOcc)|
-|2024|CVPR|Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation|[Code](https://github.com/songw-zju/HASSC)|
-|2024|CVPR|COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction|[Code](https://github.com/NotACracker/COTR)|
-|2024|CVPR|Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles|[Project Page](https://rruisong.github.io/publications/CoHFF/)|
-|2024|CVPR|Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications|[Code](https://github.com/haomo-ai/Cam4DOcc)|
-|2024|CVPR|Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
-|2024|CVPR|DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving|-|
-|2024|IJCAI|Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion|[Code](https://github.com/Arlo0o/StereoScene)|
-|2024|ICRA|RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision|[Code](https://github.com/pmj110119/RenderOcc)|
-|2024|ICRA|MonoOcc: Digging into Monocular Semantic Occupancy Prediction|[Code](https://github.com/ucaszyp/MonoOcc)|
-|2024|ICRA|FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View|-|
-|2024|AAAI|Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving|[Code](https://github.com/cskkxjk/Vampire)|
-|2024|AAAI|One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception|-|
-|2024|RA-L|Multi-Camera Unified Pre-Training via 3D Scene Reconstruction|[Code](https://github.com/chaytonmin/UniScene)|
-|2024|arXiv|OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow|-|
-|2024|arXiv|OccFiner: Offboard Occupancy Refinement with Hybrid Propagation|-|
-|2024|arXiv|InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction|[Code](https://github.com/DanielMing123/InverseMatrixVT3D)|
-|2024|arXiv|Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
-|2024|arXiv|ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers|-|
-|2023|CVPR|VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion|[Code](https://github.com/NVlabs/VoxFormer)|
-|2023|CVPR|Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction|[Project Page](https://wzzheng.net/TPVFormer/)|
-|2023|NeurIPS|POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images|[Project Page](https://vobecant.github.io/POP3D/)|
-|2023|NeurIPS|Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving|[Project Page](https://tsinghua-mars-lab.github.io/Occ3D/)|
-|2023|ICCV|SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving|[Project Page](https://weiyithu.github.io/SurroundOcc/)|
-|2023|ICCV|Scene as Occupancy|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
-|2023|ICCV|OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction|[Code](https://github.com/zhangyp15/OccFormer)|
-|2023|ICCV|NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space|[Code](https://github.com/Jiawei-Yao0812/NDCScene)|
-|2023|T-IV|3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement|[Code](https://github.com/lvchuandong/ML3DOP)|
-|2023|arXiv|SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views|[Code](https://github.com/ai4ce/SSCBench)|
-|2023|arXiv|SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints|-|
-|2023|arXiv|OVO: Open-Vocabulary Occupancy|[Code](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)|
-|2023|arXiv|OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries|[Code](https://github.com/4DVLab/OctreeOcc)|
-|2023|arXiv|OccWorld: Learning a 3D OccupancyWorld Model for Autonomous Driving|[Project Page](https://wzzheng.net/OccWorld/)|
-|2023|arXiv|OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields|[Project Page](https://linshan-bin.github.io/OccNeRF/)|
-|2023|arXiv|OccDepth: A Depth-Aware Method for 3D Semantic Scene Completion|[Code](https://github.com/megvii-research/OccDepth)|
-|2023|arXiv|Fully Sparse 3D Occupancy Prediction|[Code](https://github.com/MCG-NJU/SparseOcc)|
-|2023|arXiv|FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin|[Code](https://github.com/Yzichen/FlashOCC)|
-|2023|arXiv|FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation|[Code](https://github.com/NVlabs/FB-BEV)|
-|2023|arXiv|DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion|-|
-|2023|arXiv|Camera-based 3D Semantic Scene Completion with Sparse Guidance Network|[Code](https://github.com/Jieqianyu/SGN)|
-|2023|arXiv|A Simple Framework for 3D Occupancy Estimation in Autonomous Driving|[Code](https://github.com/GANWANSHUI/SimpleOccupancy)|
-|2023|arXiv|UniWorld: Autonomous Driving Pre-training via World Models|[Code](https://github.com/chaytonmin/UniWorld)|
-|2022|CVPR|MonoScene: Monocular 3D Semantic Scene Completion|[Project Page](https://astra-vision.github.io/MonoScene/)|
+|2024|CVPR|[Symphonize 3D Semantic Scene Completion with Contextual Instance Queries](https://arxiv.org/abs/2306.15670)|[Code](https://github.com/hustvl/Symphonies)|
+|2024|CVPR|[SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](https://arxiv.org/abs/2404.09502)|[Project Page](https://pintang1999.github.io/sparseocc.html)|
+|2024|CVPR|[SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/abs/2311.12754)|[Project Page](https://huang-yh.github.io/SelfOcc/)|
+|2024|CVPR|[PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://arxiv.org/abs/2306.10013)|[Code](https://github.com/Robertwyq/PanoOcc)|
+|2024|CVPR|[Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation](https://arxiv.org/abs/2404.11958)|[Code](https://github.com/songw-zju/HASSC)|
+|2024|CVPR|[COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction](https://arxiv.org/abs/2312.01919)|[Code](https://github.com/NotACracker/COTR)|
+|2024|CVPR|[Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles](https://arxiv.org/abs/2402.07635)|[Project Page](https://rruisong.github.io/publications/CoHFF/)|
+|2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
+|2024|CVPR|[Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation](https://arxiv.org/abs/2404.07933)|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
+|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
+|2024|IJCAI|[Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion](https://arxiv.org/abs/2303.13959)|[Code](https://github.com/Arlo0o/StereoScene)|
+|2024|ICRA|[RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision](https://arxiv.org/abs/2309.09502)|[Code](https://github.com/pmj110119/RenderOcc)|
+|2024|ICRA|[MonoOcc: Digging into Monocular Semantic Occupancy Prediction](https://arxiv.org/abs/2403.08766)|[Code](https://github.com/ucaszyp/MonoOcc)|
+|2024|ICRA|[FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View](https://arxiv.org/abs/2403.02710)|-|
+|2024|AAAI|[Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving](https://arxiv.org/abs/2312.11837)|[Code](https://github.com/cskkxjk/Vampire)|
+|2024|AAAI|[One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception](https://arxiv.org/abs/2306.12681)|-|
+|2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|2024|arXiv|[OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow](https://arxiv.org/abs/2402.12792)|-|
+|2024|arXiv|[OccFiner: Offboard Occupancy Refinement with Hybrid Propagation](https://arxiv.org/abs/2403.08504)|-|
+|2024|arXiv|[InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction](https://arxiv.org/abs/2401.12422)|[Code](https://github.com/DanielMing123/InverseMatrixVT3D)|
+|2024|arXiv|[Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2024|arXiv|[ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers](https://arxiv.org/abs/2405.04299)|-|
+|2023|CVPR|[VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2302.12251)|[Code](https://github.com/NVlabs/VoxFormer)|
+|2023|CVPR|[Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2302.07817)|[Project Page](https://wzzheng.net/TPVFormer/)|
+|2023|NeurIPS|[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images](https://arxiv.org/abs/2401.09413)|[Project Page](https://vobecant.github.io/POP3D/)|
+|2023|NeurIPS|[Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving](https://arxiv.org/abs/2304.14365)|[Project Page](https://tsinghua-mars-lab.github.io/Occ3D/)|
+|2023|ICCV|[SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2303.09551)|[Project Page](https://weiyithu.github.io/SurroundOcc/)|
+|2023|ICCV|[Scene as Occupancy](https://arxiv.org/abs/2306.02851)|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
+|2023|ICCV|[OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2304.05316)|[Code](https://github.com/zhangyp15/OccFormer)|
+|2023|ICCV|[NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space](https://arxiv.org/abs/2309.14616)|[Code](https://github.com/Jiawei-Yao0812/NDCScene)|
+|2023|T-IV|[3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement](https://ieeexplore.ieee.org/document/10363646)|[Code](https://github.com/lvchuandong/ML3DOP)|
+|2023|arXiv|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2023|arXiv|[SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints](https://arxiv.org/abs/2311.11371)|-|
+|2023|arXiv|[OVO: Open-Vocabulary Occupancy](https://arxiv.org/abs/2305.16133)|[Code](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)|
+|2023|arXiv|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
+|2023|arXiv|[OccWorld: Learning a 3D OccupancyWorld Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
+|2023|arXiv|[OccNeRF: Advancing 3D Occupancy Prediction in LiDAR-Free Environments](https://arxiv.org/abs/2312.09243v2)|[Project Page](https://linshan-bin.github.io/OccNeRF/)|
+|2023|arXiv|[OccDepth: A Depth-Aware Method for 3D Semantic Scene Completion](https://arxiv.org/abs/2302.13540)|[Code](https://github.com/megvii-research/OccDepth)|
+|2023|arXiv|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
+|2023|arXiv|[FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin](https://arxiv.org/abs/2311.12058)|[Code](https://github.com/Yzichen/FlashOCC)|
+|2023|arXiv|[FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation](https://arxiv.org/abs/2307.01492)|[Code](https://github.com/NVlabs/FB-BEV)|
+|2023|arXiv|[DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2311.17084)|-|
+|2023|arXiv|[Camera-based 3D Semantic Scene Completion with Sparse Guidance Network](https://arxiv.org/abs/2312.05752)|[Code](https://github.com/Jieqianyu/SGN)|
+|2023|arXiv|[A Simple Framework for 3D Occupancy Estimation in Autonomous Driving](https://arxiv.org/abs/2303.10076)|[Code](https://github.com/GANWANSHUI/SimpleOccupancy)|
+|2023|arXiv|[UniWorld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234)|[Code](https://github.com/chaytonmin/UniWorld)|
+|2022|CVPR|[MonoScene: Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2112.00726)|[Project Page](https://astra-vision.github.io/MonoScene/)|
 
 
 
