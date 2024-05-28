@@ -109,6 +109,7 @@ current limitations and future research directions are discussed.
 |2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |2024|CVPR|[Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation](https://arxiv.org/abs/2404.07933)|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
 |2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
+|2024|IJCAI|[Label-efficient Semantic Scene Completion with Scribble Annotations](https://arxiv.org/abs/2405.15170)|[Code](https://github.com/songw-zju/Scribble2Scene)|
 |2024|IJCAI|[Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion](https://arxiv.org/abs/2303.13959)|[Code](https://github.com/Arlo0o/StereoScene)|
 |2024|ICRA|[The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition](https://arxiv.org/abs/2405.08816)|[Project Page](https://robodrive-24.github.io/)|
 |2024|ICRA|[RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision](https://arxiv.org/abs/2309.09502)|[Code](https://github.com/pmj110119/RenderOcc)|
@@ -117,6 +118,8 @@ current limitations and future research directions are discussed.
 |2024|AAAI|[Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving](https://arxiv.org/abs/2312.11837)|[Code](https://github.com/cskkxjk/Vampire)|
 |2024|AAAI|[One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception](https://arxiv.org/abs/2306.12681)|-|
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|2024|arXiv|[Context and Geometry Aware Voxel Transformer for Semantic Scene Completion](https://arxiv.org/abs/2405.13675)|[Code](https://github.com/pkqbajng/CGFormer)|
+|2024|arXiv|[GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision](https://arxiv.org/abs/2405.10591)|-|
 |2024|arXiv|[OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow](https://arxiv.org/abs/2402.12792)|-|
 |2024|arXiv|[OccFiner: Offboard Occupancy Refinement with Hybrid Propagation](https://arxiv.org/abs/2403.08504)|-|
 |2024|arXiv|[InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction](https://arxiv.org/abs/2401.12422)|[Code](https://github.com/DanielMing123/InverseMatrixVT3D)|
