@@ -110,6 +110,7 @@ current limitations and future research directions are discussed.
 |2024|CVPR|[Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation](https://arxiv.org/abs/2404.07933)|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
 |2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |2024|IJCAI|[Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion](https://arxiv.org/abs/2303.13959)|[Code](https://github.com/Arlo0o/StereoScene)|
+|2024|ICRA|[The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition](https://arxiv.org/abs/2405.08816)|[Project Page](https://robodrive-24.github.io/)|
 |2024|ICRA|[RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision](https://arxiv.org/abs/2309.09502)|[Code](https://github.com/pmj110119/RenderOcc)|
 |2024|ICRA|[MonoOcc: Digging into Monocular Semantic Occupancy Prediction](https://arxiv.org/abs/2403.08766)|[Code](https://github.com/ucaszyp/MonoOcc)|
 |2024|ICRA|[FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View](https://arxiv.org/abs/2403.02710)|-|
