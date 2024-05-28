@@ -85,6 +85,7 @@ current limitations and future research directions are discussed.
 ### LiDAR-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|CVPR|[PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness](https://arxiv.org/abs/2312.02158)|[Project Page](https://astra-vision.github.io/PaSCo/)|
 |2024|AAAI|[Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054)|[Project Page](https://scsfnet.github.io)|
 |2023|T-IV|[Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders](https://arxiv.org/abs/2206.09900)|[Code](https://github.com/chaytonmin/Occupancy-MAE)|
 |2023|arXiv|[PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2308.16896)|[Code](https://github.com/wzzheng/PointOcc)|
