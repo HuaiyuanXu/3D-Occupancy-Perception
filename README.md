@@ -142,7 +142,6 @@ current limitations and future research directions are discussed.
 |2023|arXiv|[SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints](https://arxiv.org/abs/2311.11371)|-|
 |2023|arXiv|[OVO: Open-Vocabulary Occupancy](https://arxiv.org/abs/2305.16133)|[Code](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)|
 |2023|arXiv|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
-|2023|arXiv|[OccWorld: Learning a 3D OccupancyWorld Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
 |2023|arXiv|[OccNeRF: Advancing 3D Occupancy Prediction in LiDAR-Free Environments](https://arxiv.org/abs/2312.09243v2)|[Project Page](https://linshan-bin.github.io/OccNeRF/)|
 |2023|arXiv|[OccDepth: A Depth-Aware Method for 3D Semantic Scene Completion](https://arxiv.org/abs/2302.13540)|[Code](https://github.com/megvii-research/OccDepth)|
 |2023|arXiv|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
@@ -205,9 +204,17 @@ current limitations and future research directions are discussed.
 |Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
 
 ### World Models
+|Specific Task|Year|Venue|Paper Title|Link|
+|:-:|:-:|:-:|-|-|
+|4D Representation Learning|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
+|4D Occupancy Generation|2024|arXiv|[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337)|[Project Page](https://wzzheng.net/OccSora/)|
+|4D Occupancy Forecasting|2023|arXiv|[OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
+
+
+### Unified Autonomous Driving Algorithm Framework
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
+|Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |Occupancy Prediction, 3D Object Detection|2024|RA-L|[UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |Occupancy Prediction, 3D Object Detection, BEV segmentation, Motion Planning|2023|ICCV|[Scene as Occupancy](https://arxiv.org/abs/2306.02851)|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
 
