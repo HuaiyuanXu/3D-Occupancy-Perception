@@ -187,7 +187,7 @@ current limitations and future research directions are discussed.
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
 |3D Panoptic Segmentation|2024|CVPR|[PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://arxiv.org/abs/2306.10013)|[Code](https://github.com/Robertwyq/PanoOcc)|
-|BEV Segmentation|2024|arXiv|[OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks](https://arxiv.org/abs/2404.14027)|-|
+|BEV Segmentation|2024|CVPRW|[OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks](https://arxiv.org/abs/2404.14027)|-|
 
 ### Detection
 |Specific Task|Year|Venue|Paper Title|Link|
