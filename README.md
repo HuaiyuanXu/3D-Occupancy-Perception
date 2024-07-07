@@ -99,6 +99,9 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|ECCV|[Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2407.02077)|[Code](https://github.com/Arlo0o/HTCL)|
+|2024|CVPR|[LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-based 3D Semantic Occupancy Prediction](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_LowRankOcc_Tensor_Decomposition_and_Low-Rank_Recovery_for_Vision-based_3D_Semantic_CVPR_2024_paper.pdf)|-|
+|2024|CVPR|[Bi-SSC: Geometric-Semantic Bidirectional Fusion for Camera-based 3D Semantic Scene Completion](https://openaccess.thecvf.com/content/CVPR2024/papers/Xue_Bi-SSC_Geometric-Semantic_Bidirectional_Fusion_for_Camera-based_3D_Semantic_Scene_Completion_CVPR_2024_paper.pdf)|-|
 |2024|CVPR|[Symphonize 3D Semantic Scene Completion with Contextual Instance Queries](https://arxiv.org/abs/2306.15670)|[Code](https://github.com/hustvl/Symphonies)|
 |2024|CVPR|[SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](https://arxiv.org/abs/2404.09502)|[Project Page](https://pintang1999.github.io/sparseocc.html)|
 |2024|CVPR|[SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/abs/2311.12754)|[Project Page](https://huang-yh.github.io/SelfOcc/)|
