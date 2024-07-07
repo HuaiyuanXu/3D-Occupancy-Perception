@@ -209,13 +209,14 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting|2024|ECCV|[OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
 |4D Occupancy Forecasting|2024|CVPR|[UnO: Unsupervised Occupancy Fields for Perception and Forecasting](https://arxiv.org/abs/2406.08691) (Oral paper)|[Project Page](https://waabi.ai/uno/)|
 |4D Representation Learning Framework|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |4D Occupancy Forecasting|2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |4D Occupancy Forecasting|2024|AAAI|[Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054)|[Project Page](https://scsfnet.github.io)|
 |4D Occupancy Generation|2024|arXiv|[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337)|[Project Page](https://wzzheng.net/OccSora/)|
 |4D Occupancy Forecasting|2023|CVPR|[Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting](https://arxiv.org/abs/2302.13130)|[Project Page](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html)|
-|4D Occupancy Forecasting|2023|arXiv|[OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
+
 
 
 ### Unified Autonomous Driving Algorithm Framework
