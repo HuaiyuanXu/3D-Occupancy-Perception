@@ -99,6 +99,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|ECCV|[GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2405.17429)|[Project Page](https://wzzheng.net/GaussianFormer/)|
 |2024|ECCV|[Occupancy as Set of Points](https://arxiv.org/abs/2407.04049)|[Code](https://github.com/hustvl/osp)|
 |2024|ECCV|[Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2407.02077)|[Code](https://github.com/Arlo0o/HTCL)|
 |2024|CVPR|[LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-based 3D Semantic Occupancy Prediction](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_LowRankOcc_Tensor_Decomposition_and_Low-Rank_Recovery_for_Vision-based_3D_Semantic_CVPR_2024_paper.pdf)|-|
@@ -125,7 +126,6 @@ current limitations and future research directions are discussed.
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |2024|arXiv|[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2406.11021)|-|
 |2024|arXiv|[Panoptic-FlashOcc: An Efficient Baseline to Marry Semantic Occupancy with Panoptic via Instance Center](https://arxiv.org/abs/2406.10527)|[Code](https://github.com/Yzichen/FlashOCC)|
-|2024|arXiv|[GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2405.17429)|[Project Page](https://wzzheng.net/GaussianFormer/)|
 |2024|arXiv|[BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network](https://arxiv.org/abs/2405.17037)|[Code](https://github.com/zzk785089755/BDC)|
 |2024|arXiv|[Context and Geometry Aware Voxel Transformer for Semantic Scene Completion](https://arxiv.org/abs/2405.13675)|[Code](https://github.com/pkqbajng/CGFormer)|
 |2024|arXiv|[GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision](https://arxiv.org/abs/2405.10591)|-|
