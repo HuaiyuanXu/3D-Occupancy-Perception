@@ -99,6 +99,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|ECCV|[VEON: Vocabulary-Enhanced Occupancy Prediction](https://arxiv.org/abs/2407.12294)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2024|ECCV|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2024|ECCV|[GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2405.17429)|[Project Page](https://wzzheng.net/GaussianFormer/)|
 |2024|ECCV|[Occupancy as Set of Points](https://arxiv.org/abs/2407.04049)|[Code](https://github.com/hustvl/osp)|
@@ -166,11 +167,11 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|ECCV|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
 |2024|RA-L|[Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2404.04561)|[Project Page](https://rorisis.github.io/Co-Occ_project-page/)|
 |2024|arXiv|[OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2403.05329)|-|
 |2024|arXiv|[EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network](https://arxiv.org/abs/2406.07042)|[Code](https://github.com/synsin0/EFFOcc)|
 |2024|arXiv|[Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/abs/2403.08748)|-|
-|2024|arXiv|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
 |2024|arXiv|[OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/abs/2403.01644)|-|
 |2024|arXiv|[Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception](https://arxiv.org/abs/2403.07746)|-|
 |2023|ICCV|[OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception](https://arxiv.org/abs/2303.03991)|[Code](https://github.com/JeffWang987/OpenOccupancy)|
