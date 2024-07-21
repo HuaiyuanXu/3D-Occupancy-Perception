@@ -99,6 +99,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|ECCV|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2024|ECCV|[GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2405.17429)|[Project Page](https://wzzheng.net/GaussianFormer/)|
 |2024|ECCV|[Occupancy as Set of Points](https://arxiv.org/abs/2407.04049)|[Code](https://github.com/hustvl/osp)|
 |2024|ECCV|[Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2407.02077)|[Code](https://github.com/Arlo0o/HTCL)|
@@ -124,6 +125,7 @@ current limitations and future research directions are discussed.
 |2024|AAAI|[One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception](https://arxiv.org/abs/2306.12681)|-|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|2024|arXiv|[Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement](https://arxiv.org/abs/2407.13155)|-|
 |2024|arXiv|[Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction](https://arxiv.org/abs/2407.07587)|[Project Page](https://eliliu2233.github.io/letoccflow/)|
 |2024|arXiv|[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2406.11021)|-|
 |2024|arXiv|[Panoptic-FlashOcc: An Efficient Baseline to Marry Semantic Occupancy with Panoptic via Instance Center](https://arxiv.org/abs/2406.10527)|[Code](https://github.com/Yzichen/FlashOCC)|
@@ -151,7 +153,6 @@ current limitations and future research directions are discussed.
 |2023|arXiv|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
 |2023|arXiv|[OccNeRF: Advancing 3D Occupancy Prediction in LiDAR-Free Environments](https://arxiv.org/abs/2312.09243v2)|[Project Page](https://linshan-bin.github.io/OccNeRF/)|
 |2023|arXiv|[OccDepth: A Depth-Aware Method for 3D Semantic Scene Completion](https://arxiv.org/abs/2302.13540)|[Code](https://github.com/megvii-research/OccDepth)|
-|2023|arXiv|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2023|arXiv|[FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin](https://arxiv.org/abs/2311.12058)|[Code](https://github.com/Yzichen/FlashOCC)|
 |2023|arXiv|[FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation](https://arxiv.org/abs/2307.01492)|[Code](https://github.com/NVlabs/FB-BEV)|
 |2023|arXiv|[DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2311.17084)|-|
