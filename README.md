@@ -256,5 +256,9 @@ If you have any questions, please feel free to get in touch:
 lap-pui.chau@polyu.edu.hk
 huaiyuan.xu@polyu.edu.hk
 ```
+If you are interested in joining us as a Ph.D. student to research egocentric vision, embodied AI, autonomous driving, or trustworthy, please feel free to contact Professor Chau:
+```
+lap-pui.chau@polyu.edu.hk
+```
 
 
