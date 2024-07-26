@@ -50,7 +50,7 @@ offers detailed performance comparisons. Furthermore,
 current limitations and future research directions are discussed.
 
 ###  🔥 Important News
-- [2024-07-26] <em >Attention! **We are actively looking for highly motivated PhD students! If you are interested in joining us to research autonomous driving**, please feel free to contact [Professor Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/) (IEEE Fellow, Global STEM Professorship, Hong Kong PolyU, QS Ranking #57 ).</em> 
+- [2024-07-26] <em >Attention! **We are actively looking for highly motivated PhD students! If you are interested in joining us to research autonomous driving**, please feel free to contact [Professor Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/) (IEEE Fellow, Global STEM Professorship, Hong Kong PolyU, QS Ranking #57).</em> 
 - [2024-07-21]  More representative works and benchmarking comparisons have been incorporated, bringing the total to 192 literature references.
 - [2024-05-18]  More figures have been added to the survey. We reorganize the occupancy-based applications.
 - [2024-05-08] The first version of the survey is available on [arXiv](https://arxiv.org/abs/2405.05173). We curate this repository.
