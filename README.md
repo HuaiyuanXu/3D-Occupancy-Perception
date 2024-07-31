@@ -128,6 +128,7 @@ current limitations and future research directions are discussed.
 |2024|AAAI|[One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception](https://arxiv.org/abs/2306.12681)|-|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|2024|arXiv|[LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering](https://arxiv.org/abs/2407.17310)|-|
 |2024|arXiv|[Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement](https://arxiv.org/abs/2407.13155)|-|
 |2024|arXiv|[Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction](https://arxiv.org/abs/2407.07587)|[Project Page](https://eliliu2233.github.io/letoccflow/)|
 |2024|arXiv|[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2406.11021)|-|
@@ -171,6 +172,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|-|-|
 |2024|ECCV|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
 |2024|RA-L|[Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2404.04561)|[Project Page](https://rorisis.github.io/Co-Occ_project-page/)|
+|2024|arXiv|[LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera](https://www.arxiv.org/abs/2407.16197)|[Project Page](https://hr-zju.github.io/LiCROcc/)|
 |2024|arXiv|[OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2403.05329)|-|
 |2024|arXiv|[EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network](https://arxiv.org/abs/2406.07042)|[Code](https://github.com/synsin0/EFFOcc)|
 |2024|arXiv|[Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/abs/2403.08748)|-|
