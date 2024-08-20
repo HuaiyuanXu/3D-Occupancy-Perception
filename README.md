@@ -174,6 +174,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|-|-|
 |2024|ECCV|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
 |2024|RA-L|[Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2404.04561)|[Project Page](https://rorisis.github.io/Co-Occ_project-page/)|
+|2024|arXiv|[OccMamba: Semantic Occupancy Prediction with State Space Models](https://arxiv.org/abs/2408.09859)|-|
 |2024|arXiv|[LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera](https://www.arxiv.org/abs/2407.16197)|[Project Page](https://hr-zju.github.io/LiCROcc/)|
 |2024|arXiv|[OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2403.05329)|-|
 |2024|arXiv|[EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network](https://arxiv.org/abs/2406.07042)|[Code](https://github.com/synsin0/EFFOcc)|
