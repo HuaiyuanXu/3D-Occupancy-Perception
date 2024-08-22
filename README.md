@@ -127,6 +127,7 @@ current limitations and future research directions are discussed.
 |2024|AAAI|[Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving](https://arxiv.org/abs/2312.11837)|[Code](https://github.com/cskkxjk/Vampire)|
 |2024|AAAI|[One at a Time: Progressive Multi-step Volumetric Probability Learning for Reliable 3D Scene Perception](https://arxiv.org/abs/2306.12681)|-|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
+|2024|RA-L|[HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction](https://www.arxiv.org/abs/2408.09104)|-|
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |2024|arXiv|[VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2408.03551)|-|
 |2024|arXiv|[UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/abs/2401.06994)|[Code](https://github.com/Cc-Hy/UniVision)|
