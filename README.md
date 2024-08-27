@@ -130,6 +130,8 @@ current limitations and future research directions are discussed.
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|RA-L|[HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction](https://www.arxiv.org/abs/2408.09104)|-|
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|2024|arXiv|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
+|2024|arXiv|[MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering](https://arxiv.org/abs/2408.11464)|[Code](https://github.com/Hub-Tian/MambaOcc)|
 |2024|arXiv|[VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2408.03551)|-|
 |2024|arXiv|[UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/abs/2401.06994)|[Code](https://github.com/Cc-Hy/UniVision)|
 |2024|arXiv|[LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering](https://arxiv.org/abs/2407.17310)|-|
