@@ -31,11 +31,11 @@ This work focuses on 3D dense perception in autonomous driving, encompassing **L
 
 This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star this repo.
 
-### ✨You are welcome to provide us your work with a topic related to 3D occupancy for autonomous driving (involving not only perception, but also applications)!!!
+### ✨You are welcome to provide us your work with a topic related to 3D occupancy for autonomous driving (involving not only perception, but also applications)!
 
 If you discover any missing work or have any suggestions, please feel free to submit a [pull request](https://github.com/HuaiyuanXu/3D-Occupancy-Perception/issues) or [contact us](#contact). We will promptly add the missing papers to this repository.
 
-###  ✨Highlight!!!
+###  ✨Highlight
 
 [1]  A systematically survey for the latest research on 3D occupancy
 perception in the field of autonomous driving.
@@ -49,7 +49,8 @@ effective network training.
 offers detailed performance comparisons. Furthermore,
 current limitations and future research directions are discussed.
 
-###  🔥 Important News
+###  🔥 News
+- [2024-09-03]  This survey got accepted by Information Fusion (Impact factor: 14.7).
 - [2024-07-26] <em >Attention! **We are actively looking for highly motivated PhD students! If you are interested in joining us to research autonomous driving**, please feel free to contact [Professor Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/) (IEEE Fellow, Global STEM Professorship, Hong Kong PolyU, QS Ranking #57).</em> 
 - [2024-07-21]  More representative works and benchmarking comparisons have been incorporated, bringing the total to 192 literature references.
 - [2024-05-18]  More figures have been added to the survey. We reorganize the occupancy-based applications.
@@ -88,10 +89,10 @@ current limitations and future research directions are discussed.
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
 |2024|CVPR|[PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness](https://arxiv.org/abs/2312.02158) (Best paper award candidate)|[Project Page](https://astra-vision.github.io/PaSCo/)|
+|2024|IROS|[LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/abs/2310.11239)|[Project Page](https://ai4ce.github.io/Occ4cast/)|
 |2024|arXiv|[MergeOcc: Bridge the Domain Gap between Different LiDARs for Robust Occupancy Prediction](https://arxiv.org/abs/2403.08512)|-|
 |2023|T-IV|[Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders](https://arxiv.org/abs/2206.09900)|[Code](https://github.com/chaytonmin/Occupancy-MAE)|
 |2023|arXiv|[PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2308.16896)|[Code](https://github.com/wzzheng/PointOcc)|
-|2023|arXiv|[LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/abs/2310.11239)|[Project Page](https://ai4ce.github.io/Occ4cast/)|
 |2021|T-PAMI|[Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data](https://arxiv.org/abs/2011.09141)|-|
 |2021|AAAI|[Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion](https://arxiv.org/abs/2012.03762)|[Code](https://github.com/yanx27/JS3C-Net)|
 |2020|CoRL|[S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds](https://arxiv.org/abs/2012.09242)|-|
@@ -131,6 +132,7 @@ current limitations and future research directions are discussed.
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2024|arXiv|[Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction](https://arxiv.org/abs/2409.07972)|[Code](https://github.com/yanzq95/DHD)|
 |2024|arXiv|[AdaOcc: Adaptive-Resolution Occupancy Prediction](https://arxiv.org/abs/2408.13454)|-|
 |2024|arXiv|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
 |2024|arXiv|[MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering](https://arxiv.org/abs/2408.11464)|[Code](https://github.com/Hub-Tian/MambaOcc)|
