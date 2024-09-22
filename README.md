@@ -76,6 +76,7 @@ current limitations and future research directions are discussed.
 - [Methods: A Survey](#methods-a-survey)
   - [LiDAR-Centric Occupancy Perception](#liDAR-centric-occupancy-perception)
   - [Vision-Centric Occupancy Perception](#vision-centric-occupancy-perception)
+  - [Radar-Centric Occupancy Perception](#radar-centric-occupancy-perception)
   - [Multi-Modal Occupancy Perception](#multi-modal-occupancy-perception)
 - [3D Occupancy Datasets](#3D-Occupancy-Datasets)
 - [Occupancy-based Applications](#occupancy-based-applications)
@@ -176,6 +177,11 @@ current limitations and future research directions are discussed.
 |2023|arXiv|[UniWorld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234)|[Code](https://github.com/chaytonmin/UniWorld)|
 |2022|CVPR|[MonoScene: Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2112.00726)|[Project Page](https://astra-vision.github.io/MonoScene/)|
 
+
+### Radar-Centric Occupancy Perception
+|Year|Venue|Paper Title|Link|
+|:-:|:-:|-|-|
+|2024|arXiv|[RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar](https://arxiv.org/abs/2405.14014)|-|
 
 
 ### Multi-Modal Occupancy Perception
