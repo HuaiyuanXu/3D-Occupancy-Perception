@@ -132,6 +132,8 @@ current limitations and future research directions are discussed.
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2024|arXiv|[OPUS: Occupancy Prediction Using a Sparse Set](https://www.arxiv.org/abs/2409.09350)|[Code](https://github.com/jbwang1997/OPUS)|
+|2024|arXiv|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v2)|-|
 |2024|arXiv|[Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction](https://arxiv.org/abs/2409.07972)|[Code](https://github.com/yanzq95/DHD)|
 |2024|arXiv|[AdaOcc: Adaptive-Resolution Occupancy Prediction](https://arxiv.org/abs/2408.13454)|-|
 |2024|arXiv|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
