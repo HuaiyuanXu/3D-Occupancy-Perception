@@ -219,6 +219,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|:-:|-|-|
 |3D Object Detection|2024|CVPR|[Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/abs/2305.15694)|[Code](https://github.com/SPengLiang/OccupancyM3D)|
 |3D Object Detection|2024|AAAI|[SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection](https://arxiv.org/abs/2308.13794)|[Code](https://github.com/zhouqiu/SOGDet)|
+|3D Object Detection|2024|arXiv|[UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height](https://arxiv.org/abs/2409.11160)|-|
 
 ### Dynamic Perception
 |Specific Task|Year|Venue|Paper Title|Link|
@@ -240,6 +241,7 @@ current limitations and future research directions are discussed.
 |4D Representation Learning Framework|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |4D Occupancy Forecasting|2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |4D Occupancy Forecasting|2024|AAAI|[Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054)|[Project Page](https://scsfnet.github.io)|
+|4D Occupancy Forecasting and Motion Planing|2024|arXiv|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
 |4D Occupancy Forecasting, Motion Planing, and Reasoning|2024|arXiv|[OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving](https://arxiv.org/abs/2409.03272)|-|
 |4D Occupancy Forecasting and Generation|2024|arXiv|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|-|
 |4D Occupancy Generation|2024|arXiv|[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337)|[Project Page](https://wzzheng.net/OccSora/)|
