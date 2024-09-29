@@ -104,6 +104,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|ECCV|[CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2409.13430)|[Code](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)|
 |2024|ECCV|[VEON: Vocabulary-Enhanced Occupancy Prediction](https://arxiv.org/abs/2407.12294)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2024|ECCV|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2024|ECCV|[GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2405.17429)|[Project Page](https://wzzheng.net/GaussianFormer/)|
