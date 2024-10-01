@@ -105,6 +105,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|ECCV|[ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers](https://arxiv.org/abs/2405.04299)|[Code](https://github.com/ViewFormerOcc/ViewFormer-Occ)|
 |2024|ECCV|[CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2409.13430)|[Code](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)|
 |2024|ECCV|[VEON: Vocabulary-Enhanced Occupancy Prediction](https://arxiv.org/abs/2407.12294)|[Code](https://github.com/MCG-NJU/SparseOcc)|
 |2024|ECCV|[Fully Sparse 3D Occupancy Prediction](https://arxiv.org/abs/2312.17118)|[Code](https://github.com/MCG-NJU/SparseOcc)|
@@ -156,7 +157,6 @@ current limitations and future research directions are discussed.
 |2024|arXiv|[OccFiner: Offboard Occupancy Refinement with Hybrid Propagation](https://arxiv.org/abs/2403.08504)|-|
 |2024|arXiv|[InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction](https://arxiv.org/abs/2401.12422)|[Code](https://github.com/DanielMing123/InverseMatrixVT3D)|
 |2024|arXiv|[Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
-|2024|arXiv|[ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers](https://arxiv.org/abs/2405.04299)|-|
 |2023|CVPR|[VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2302.12251)|[Code](https://github.com/NVlabs/VoxFormer)|
 |2023|CVPR|[Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2302.07817)|[Project Page](https://wzzheng.net/TPVFormer/)|
 |2023|NeurIPS|[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images](https://arxiv.org/abs/2401.09413)|[Project Page](https://vobecant.github.io/POP3D/)|
