@@ -124,6 +124,7 @@ current limitations and future research directions are discussed.
 |2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |2024|CVPR|[Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation](https://arxiv.org/abs/2404.07933)|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
 |2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
+|2024|T-IP|[Camera-based 3D Semantic Scene Completion with Sparse Guidance Network](https://arxiv.org/abs/2312.05752)|[Code](https://github.com/Jieqianyu/SGN)|
 |2024|IJCAI|[Label-efficient Semantic Scene Completion with Scribble Annotations](https://arxiv.org/abs/2405.15170)|[Code](https://github.com/songw-zju/Scribble2Scene)|
 |2024|IJCAI|[Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion](https://arxiv.org/abs/2303.13959)|[Code](https://github.com/Arlo0o/StereoScene)|
 |2024|ICRA|[The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition](https://arxiv.org/abs/2405.08816)|[Project Page](https://robodrive-24.github.io/)|
@@ -175,7 +176,6 @@ current limitations and future research directions are discussed.
 |2023|arXiv|[FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin](https://arxiv.org/abs/2311.12058)|[Code](https://github.com/Yzichen/FlashOCC)|
 |2023|arXiv|[FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation](https://arxiv.org/abs/2307.01492)|[Code](https://github.com/NVlabs/FB-BEV)|
 |2023|arXiv|[DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2311.17084)|-|
-|2023|arXiv|[Camera-based 3D Semantic Scene Completion with Sparse Guidance Network](https://arxiv.org/abs/2312.05752)|[Code](https://github.com/Jieqianyu/SGN)|
 |2023|arXiv|[A Simple Framework for 3D Occupancy Estimation in Autonomous Driving](https://arxiv.org/abs/2303.10076)|[Code](https://github.com/GANWANSHUI/SimpleOccupancy)|
 |2023|arXiv|[UniWorld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234)|[Code](https://github.com/chaytonmin/UniWorld)|
 |2022|CVPR|[MonoScene: Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2112.00726)|[Project Page](https://astra-vision.github.io/MonoScene/)|
