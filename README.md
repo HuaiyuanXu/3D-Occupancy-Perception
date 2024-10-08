@@ -243,6 +243,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|:-:|-|-|
 |Scene Generation|2024|ECCV|[Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085) (Oral paper)|[Code](https://github.com/yuhengliu02/pyramid-discrete-diffusion)|
 |Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
+|Scene Generation|2024|arXiv|[SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs](https://arxiv.org/abs/2410.00337)|[Project Page](https://len-li.github.io/syntheocc-web/)|
 
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
