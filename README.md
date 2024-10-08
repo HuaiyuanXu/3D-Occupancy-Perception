@@ -106,6 +106,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|NeurIPS|[Context and Geometry Aware Voxel Transformer for Semantic Scene Completion](https://arxiv.org/abs/2405.13675) (Spotlight paper)|[Code](https://github.com/pkqbajng/CGFormer)|
 |2024|NeurIPS|[OPUS: Occupancy Prediction Using a Sparse Set](https://www.arxiv.org/abs/2409.09350)|[Code](https://github.com/jbwang1997/OPUS)|
 |2024|ECCV|[ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers](https://arxiv.org/abs/2405.04299)|[Code](https://github.com/ViewFormerOcc/ViewFormer-Occ)|
 |2024|ECCV|[CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2409.13430)|[Code](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)|
@@ -153,7 +154,6 @@ current limitations and future research directions are discussed.
 |2024|arXiv|[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2406.11021)|-|
 |2024|arXiv|[Panoptic-FlashOcc: An Efficient Baseline to Marry Semantic Occupancy with Panoptic via Instance Center](https://arxiv.org/abs/2406.10527)|[Code](https://github.com/Yzichen/FlashOCC)|
 |2024|arXiv|[BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network](https://arxiv.org/abs/2405.17037)|[Code](https://github.com/zzk785089755/BDC)|
-|2024|arXiv|[Context and Geometry Aware Voxel Transformer for Semantic Scene Completion](https://arxiv.org/abs/2405.13675)|[Code](https://github.com/pkqbajng/CGFormer)|
 |2024|arXiv|[GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision](https://arxiv.org/abs/2405.10591)|-|
 |2024|arXiv|[OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow](https://arxiv.org/abs/2402.12792)|-|
 |2024|arXiv|[OccFiner: Offboard Occupancy Refinement with Hybrid Propagation](https://arxiv.org/abs/2403.08504)|-|
