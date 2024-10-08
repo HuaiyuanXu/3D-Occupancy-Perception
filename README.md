@@ -128,6 +128,7 @@ current limitations and future research directions are discussed.
 |2024|CVPR|[Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation](https://arxiv.org/abs/2404.07933)|[Project Page](https://keonhee-han.github.io/publications/kdbts/)|
 |2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding viaWorld Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |2024|T-IP|[Camera-based 3D Semantic Scene Completion with Sparse Guidance Network](https://arxiv.org/abs/2312.05752)|[Code](https://github.com/Jieqianyu/SGN)|
+|2024|CoRL|[Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction](https://arxiv.org/abs/2407.07587)|[Project Page](https://eliliu2233.github.io/letoccflow/)|
 |2024|IJCAI|[Label-efficient Semantic Scene Completion with Scribble Annotations](https://arxiv.org/abs/2405.15170)|[Code](https://github.com/songw-zju/Scribble2Scene)|
 |2024|IJCAI|[Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion](https://arxiv.org/abs/2303.13959)|[Code](https://github.com/Arlo0o/StereoScene)|
 |2024|ICRA|[The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition](https://arxiv.org/abs/2405.08816)|[Project Page](https://robodrive-24.github.io/)|
@@ -150,7 +151,6 @@ current limitations and future research directions are discussed.
 |2024|arXiv|[UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/abs/2401.06994)|[Code](https://github.com/Cc-Hy/UniVision)|
 |2024|arXiv|[LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering](https://arxiv.org/abs/2407.17310)|-|
 |2024|arXiv|[Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement](https://arxiv.org/abs/2407.13155)|-|
-|2024|arXiv|[Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction](https://arxiv.org/abs/2407.07587)|[Project Page](https://eliliu2233.github.io/letoccflow/)|
 |2024|arXiv|[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2406.11021)|-|
 |2024|arXiv|[Panoptic-FlashOcc: An Efficient Baseline to Marry Semantic Occupancy with Panoptic via Instance Center](https://arxiv.org/abs/2406.10527)|[Code](https://github.com/Yzichen/FlashOCC)|
 |2024|arXiv|[BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network](https://arxiv.org/abs/2405.17037)|[Code](https://github.com/zzk785089755/BDC)|
