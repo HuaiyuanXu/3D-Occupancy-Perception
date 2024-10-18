@@ -56,7 +56,7 @@ current limitations and future research directions are discussed.
 - [2024-05-08] The first version of the survey is available on [arXiv](https://arxiv.org/abs/2405.05173). We curate this repository.
 
 
-#
+
 
 ## Introduction
 
@@ -140,6 +140,7 @@ current limitations and future research directions are discussed.
 |2024|RA-L|[UniScene: Multi-Camera Unified Pre-Training via 3D Scene Reconstruction](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2024|arXiv|[ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera](https://arxiv.org/abs/2410.11019)|-|
 |2024|arXiv|[ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning](https://www.arxiv.org/abs/2409.18026)|-|
 |2024|arXiv|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v2)|-|
 |2024|arXiv|[Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction](https://arxiv.org/abs/2409.07972)|[Code](https://github.com/yanzq95/DHD)|
