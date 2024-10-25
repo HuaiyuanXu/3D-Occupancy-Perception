@@ -246,6 +246,14 @@ current limitations and future research directions are discussed.
 |Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
 |Scene Generation|2024|arXiv|[SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs](https://arxiv.org/abs/2410.00337)|[Project Page](https://len-li.github.io/syntheocc-web/)|
 
+
+### Navigation
+|Specific Task|Year|Venue|Paper Title|Link|
+|:-:|:-:|:-:|-|-|
+|Navigation for Air-Ground Robots|2024|RA-L|[HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments](https://arxiv.org/abs/2410.05079)|[Project Page](https://jmwang0117.github.io/HE-Nav/)|
+|Navigation for Air-Ground Robots|2024|ICRA|[AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments](https://arxiv.org/abs/2403.11607)|[Code](https://github.com/jmwang0117/AGRNav)|
+|Navigation for Air-Ground Robots|2024|arXiv|[OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model](https://arxiv.org/abs/2408.10618)|[Project Page](https://jmwang0117.github.io/OMEGA/)|
+
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
