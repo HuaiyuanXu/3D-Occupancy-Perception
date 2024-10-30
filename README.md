@@ -186,7 +186,7 @@ current limitations and future research directions are discussed.
 ### Radar-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2024|arXiv|[RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar](https://arxiv.org/abs/2405.14014)|-|
+|2024|NeurIPS|[RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar](https://arxiv.org/abs/2405.14014)|-|
 
 
 ### Multi-Modal Occupancy Perception
