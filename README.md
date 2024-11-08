@@ -262,6 +262,7 @@ current limitations and future research directions are discussed.
 |4D Representation Learning Framework|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |4D Occupancy Forecasting|2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |4D Occupancy Forecasting|2024|AAAI|[Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054)|[Project Page](https://scsfnet.github.io)|
+|4D Occupancy Generation|2024|arXiv|[DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](https://arxiv.org/abs/2410.18084)|[Project Page](https://dynamic-city.github.io/)|
 |4D Occupancy Forecasting and Generation|2024|arXiv|[DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429)|[Project Page](https://gusongen.github.io/DOME/)|
 |4D Occupancy Forecasting|2024|arXiv|[FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving](https://arxiv.org/abs/2409.15841)|-|
 |4D Occupancy Forecasting and Motion Planing|2024|arXiv|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
