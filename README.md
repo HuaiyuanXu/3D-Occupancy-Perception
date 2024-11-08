@@ -91,6 +91,7 @@ current limitations and future research directions are discussed.
 |2024|NeurIPS|[TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight](https://arxiv.org/abs/2410.15674) |[Code](https://github.com/blue-531/TALoS)|
 |2024|CVPR|[PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness](https://arxiv.org/abs/2312.02158) (Best paper award candidate)|[Project Page](https://astra-vision.github.io/PaSCo/)|
 |2024|IROS|[LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/abs/2310.11239)|[Project Page](https://ai4ce.github.io/Occ4cast/)|
+|2024|arXiv|[Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model](https://arxiv.org/abs/2411.03672)|-|
 |2024|arXiv|[OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity](https://www.arxiv.org/abs/2409.19987)|[Project Page](https://jmwang0117.github.io/OccRWKV/)|
 |2024|arXiv|[DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2409.18092)|-|
 |2024|arXiv|[MergeOcc: Bridge the Domain Gap between Different LiDARs for Robust Occupancy Prediction](https://arxiv.org/abs/2403.08512)|-|
