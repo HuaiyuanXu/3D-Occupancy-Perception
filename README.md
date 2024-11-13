@@ -107,6 +107,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024|NeurIPS|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
 |2024|NeurIPS|[Context and Geometry Aware Voxel Transformer for Semantic Scene Completion](https://arxiv.org/abs/2405.13675) (Spotlight paper)|[Code](https://github.com/pkqbajng/CGFormer)|
 |2024|NeurIPS|[OPUS: Occupancy Prediction Using a Sparse Set](https://www.arxiv.org/abs/2409.09350)|[Code](https://github.com/jbwang1997/OPUS)|
 |2024|ECCV|[ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers](https://arxiv.org/abs/2405.04299)|[Code](https://github.com/ViewFormerOcc/ViewFormer-Occ)|
@@ -173,7 +174,6 @@ current limitations and future research directions are discussed.
 |2023|T-IV|[3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement](https://ieeexplore.ieee.org/document/10363646)|[Code](https://github.com/lvchuandong/ML3DOP)|
 |2023|arXiv|[OccupancyDETR: Using DETR for Mixed Dense-sparse 3D Occupancy Prediction](https://arxiv.org/abs/2309.08504)|-|
 |2023|arXiv|[OVO: Open-Vocabulary Occupancy](https://arxiv.org/abs/2305.16133)|[Code](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)|
-|2023|arXiv|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
 |2023|arXiv|[OccNeRF: Advancing 3D Occupancy Prediction in LiDAR-Free Environments](https://arxiv.org/abs/2312.09243v2)|[Project Page](https://linshan-bin.github.io/OccNeRF/)|
 |2023|arXiv|[OccDepth: A Depth-Aware Method for 3D Semantic Scene Completion](https://arxiv.org/abs/2302.13540)|[Code](https://github.com/megvii-research/OccDepth)|
 |2023|arXiv|[FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin](https://arxiv.org/abs/2311.12058)|[Code](https://github.com/Yzichen/FlashOCC)|
