@@ -144,6 +144,7 @@ current limitations and future research directions are discussed.
 |2024|AAIML|[SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints](https://arxiv.org/abs/2311.11371)|[Project Page](https://adityang.github.io/SOccDPT)|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2024|arXiv|[GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving](https://arxiv.org/abs/2411.12452)|[Code](https://github.com/Public-BOTs/GaussianPretrain)|
 |2024|arXiv|[ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera](https://arxiv.org/abs/2410.11019)|-|
 |2024|arXiv|[ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning](https://www.arxiv.org/abs/2409.18026)|-|
 |2024|arXiv|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v2)|-|
@@ -281,6 +282,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|:-:|-|-|
 |Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |Occupancy Prediction, 3D Object Detection|2024|RA-L|[UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
+|Occupancy Prediction, 3D Object Detection, HD map reconstruction|2024|arXiv|[GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving](https://arxiv.org/abs/2411.12452)|[Code](https://github.com/Public-BOTs/GaussianPretrain)|
 |Occupancy Forecasting, Motion Planning|2024|arXiv|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|-|
 |Occupancy Prediction, 3D Object Detection, BEV segmentation, Motion Planning|2023|ICCV|[Scene as Occupancy](https://arxiv.org/abs/2306.02851)|[Code](https://github.com/OpenDriveLab/OccNet/tree/occnet)|
 
