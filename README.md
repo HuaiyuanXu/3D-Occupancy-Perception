@@ -144,6 +144,7 @@ current limitations and future research directions are discussed.
 |2024|AAIML|[SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints](https://arxiv.org/abs/2311.11371)|[Project Page](https://adityang.github.io/SOccDPT)|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2024|arXiv|[Language Driven Occupancy Prediction](https://arxiv.org/abs/2411.16072)|[Code](https://github.com/pkqbajng/LOcc)|
 |2024|arXiv|[GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving](https://arxiv.org/abs/2411.12452)|[Code](https://github.com/Public-BOTs/GaussianPretrain)|
 |2024|arXiv|[ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera](https://arxiv.org/abs/2410.11019)|-|
 |2024|arXiv|[ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning](https://www.arxiv.org/abs/2409.18026)|-|
