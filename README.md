@@ -259,6 +259,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|:-:|-|-|
 |Scene Generation|2024|ECCV|[Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085) (Oral paper)|[Code](https://github.com/yuhengliu02/pyramid-discrete-diffusion)|
 |Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
+|Scene Generation|2024|arXiv|[OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation](https://arxiv.org/abs/2412.11183)|-|
 |Scene Generation|2024|arXiv|[UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435)|[Project Page](https://arlo0o.github.io/uniscene/)|
 |Scene Generation|2024|arXiv|[InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934)|[Project Page](https://research.nvidia.com/labs/toronto-ai/infinicube/)|
 |Scene Generation|2024|arXiv|[SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs](https://arxiv.org/abs/2410.00337)|[Project Page](https://len-li.github.io/syntheocc-web/)|
