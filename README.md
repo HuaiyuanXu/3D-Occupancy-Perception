@@ -107,7 +107,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2025|AAAI|[ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction](https://arxiv.org/abs/2412.11210)|[Code](https://github.com/SPA-junghokim/ProtoOcc)|
+|2025|AAAI|[ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction](https://arxiv.org/abs/2412.11210)|[Project Page](https://mias.group/ViPOcc/)|
 |2025|AAAI|[ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder](https://arxiv.org/abs/2412.08774)|[Code](https://github.com/SPA-junghokim/ProtoOcc)|
 |2025|AAAI|[LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba](https://www.arxiv.org/abs/2412.08388)|-|
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
@@ -148,6 +148,7 @@ current limitations and future research directions are discussed.
 |2024|AAIML|[SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints](https://arxiv.org/abs/2311.11371)|[Project Page](https://adityang.github.io/SOccDPT)|
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
+|2024|arXiv|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/abs/2412.13193)|[Code](https://github.com/hustvl/GaussTR) |
 |2024|arXiv|[GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction](https://arxiv.org/abs/2412.10373)|[Code](https://github.com/zuosc19/GaussianWorld) |
 |2024|arXiv|[GaussianAD: Gaussian-Centric End-to-End Autonomous Driving](https://arxiv.org/abs/2412.10371)|[Project Page](https://wzzheng.net/GaussianAD) |
 |2024|arXiv|[Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction](https://arxiv.org/abs/2412.08243)|-|
