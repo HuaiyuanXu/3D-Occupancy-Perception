@@ -208,6 +208,7 @@ current limitations and future research directions are discussed.
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 |2025|arXiv|[MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies](https://arxiv.org/abs/2501.15384)|[Code](https://github.com/LucasYang567/MetaOcc)|
+|2025|arXiv|[DORACAMOM: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception](https://arxiv.org/abs/2501.15394)|-|
 |2024|ECCV|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
 |2024|RA-L|[Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2404.04561)|[Project Page](https://rorisis.github.io/Co-Occ_project-page/)|
 |2024|arXiv|[MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation](https://arxiv.org/abs/2412.20480)|-|
