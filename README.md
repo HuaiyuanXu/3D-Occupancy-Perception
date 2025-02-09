@@ -112,6 +112,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder](https://arxiv.org/abs/2412.08774)|[Code](https://github.com/SPA-junghokim/ProtoOcc)|
 |2025|AAAI|[LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba](https://www.arxiv.org/abs/2412.08388)|-|
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
+|2025|arXiv|[Event-aided Semantic Scene Completion](https://arxiv.org/abs/2502.02334)|[Code](https://github.com/Pandapan01/EvSSC)|
 |2024|NeurIPS|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
 |2024|NeurIPS|[Context and Geometry Aware Voxel Transformer for Semantic Scene Completion](https://arxiv.org/abs/2405.13675) (Spotlight paper)|[Code](https://github.com/pkqbajng/CGFormer)|
 |2024|NeurIPS|[OPUS: Occupancy Prediction Using a Sparse Set](https://www.arxiv.org/abs/2409.09350)|[Code](https://github.com/jbwang1997/OPUS)|
