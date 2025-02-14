@@ -285,6 +285,7 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting and Motion Planing|2025|ICLR|[Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2502.07309)|[Code](https://github.com/getterupper/PreWorld)|
 |4D Occupancy Forecasting, Motion Planing, and Scene Understanding|2025|ICRA|[Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models](https://arxiv.org/abs/2502.06419)|-|
 |4D Occupancy Forecasting and Generation|2025|AAAI|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|[Project Page](https://drive-occworld.github.io/)|
 |4D Occupancy Forecasting and Motion Planing|2024|ECCV|[OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
