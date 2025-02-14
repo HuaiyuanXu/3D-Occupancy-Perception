@@ -208,6 +208,7 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2025|arXiv|[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](https://arxiv.org/abs/2502.04981)|-|
 |2025|arXiv|[MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies](https://arxiv.org/abs/2501.15384)|[Code](https://github.com/LucasYang567/MetaOcc)|
 |2025|arXiv|[DORACAMOM: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception](https://arxiv.org/abs/2501.15394)|-|
 |2024|ECCV|[OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)|[Project Page](https://occgen-ad.github.io/)|
