@@ -286,8 +286,9 @@ current limitations and future research directions are discussed.
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
 |4D Occupancy Forecasting and Motion Planing|2025|ICLR|[Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2502.07309)|[Code](https://github.com/getterupper/PreWorld)|
-|4D Occupancy Forecasting, Motion Planing, and Scene Understanding|2025|ICRA|[Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models](https://arxiv.org/abs/2502.06419)|-|
 |4D Occupancy Forecasting and Generation|2025|AAAI|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|[Project Page](https://drive-occworld.github.io/)|
+|4D Occupancy Forecasting and Motion Planing|2025|ICRA|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
+|4D Occupancy Forecasting, Motion Planing, and Scene Understanding|2025|ICRA|[Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models](https://arxiv.org/abs/2502.06419)|-|
 |4D Occupancy Forecasting and Motion Planing|2024|ECCV|[OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
 |4D Occupancy Forecasting|2024|CVPR|[UnO: Unsupervised Occupancy Fields for Perception and Forecasting](https://arxiv.org/abs/2406.08691) (Oral paper)|[Project Page](https://waabi.ai/uno/)|
 |4D Representation Learning Framework|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
@@ -298,7 +299,6 @@ current limitations and future research directions are discussed.
 |4D Occupancy Generation|2024|arXiv|[DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](https://arxiv.org/abs/2410.18084)|[Project Page](https://dynamic-city.github.io/)|
 |4D Occupancy Forecasting and Generation|2024|arXiv|[DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429)|[Project Page](https://gusongen.github.io/DOME/)|
 |4D Occupancy Forecasting|2024|arXiv|[FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving](https://arxiv.org/abs/2409.15841)|-|
-|4D Occupancy Forecasting and Motion Planing|2024|arXiv|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
 |4D Occupancy Forecasting, Motion Planing, and Reasoning|2024|arXiv|[OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving](https://arxiv.org/abs/2409.03272)|-|
 |4D Occupancy Generation|2024|arXiv|[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337)|[Project Page](https://wzzheng.net/OccSora/)|
 |4D Occupancy Forecasting|2023|CVPR|[Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting](https://arxiv.org/abs/2302.13130)|[Project Page](https://www.cs.cmu.edu/~tkhurana/ff4d/index.html)|
