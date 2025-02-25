@@ -113,6 +113,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba](https://www.arxiv.org/abs/2412.08388)|-|
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance](https://arxiv.org/abs/2502.14520)|-|
 |2025|arXiv|[GaussRender: Learning 3D Occupancy with Gaussian Rendering](https://arxiv.org/abs/2502.05040)|[Code](https://github.com/valeoai/GaussRender)|
 |2025|arXiv|[Event-aided Semantic Scene Completion](https://arxiv.org/abs/2502.02334)|[Code](https://github.com/Pandapan01/EvSSC)|
 |2024|NeurIPS|[OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries](https://arxiv.org/abs/2312.03774)|[Code](https://github.com/4DVLab/OctreeOcc)|
@@ -285,6 +286,8 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting|2025|ICLR|[OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://arxiv.org/abs/2502.15180)|[Code](https://github.com/JLChen-C/OccProphet)|
+|4D Occupancy Generation|2025|ICLR|[DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](https://arxiv.org/abs/2410.18084) (Spotlight)|[Project Page](https://dynamic-city.github.io/)|
 |4D Occupancy Forecasting and Motion Planing|2025|ICLR|[Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2502.07309)|[Code](https://github.com/getterupper/PreWorld)|
 |4D Occupancy Forecasting and Generation|2025|AAAI|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|[Project Page](https://drive-occworld.github.io/)|
 |4D Occupancy Forecasting and Motion Planing|2025|ICRA|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
@@ -296,7 +299,6 @@ current limitations and future research directions are discussed.
 |4D Occupancy Forecasting|2024|AAAI|[Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054)|[Project Page](https://scsfnet.github.io)|
 |4D Occupancy Forecasting and Motion Planing|2024|arXiv|[An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training](https://arxiv.org/abs/2412.13772)|-|
 |4D Occupancy Forecasting|2024|arXiv|[Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://arxiv.org/abs/2411.14169)|-|
-|4D Occupancy Generation|2024|arXiv|[DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](https://arxiv.org/abs/2410.18084)|[Project Page](https://dynamic-city.github.io/)|
 |4D Occupancy Forecasting and Generation|2024|arXiv|[DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/abs/2410.10429)|[Project Page](https://gusongen.github.io/DOME/)|
 |4D Occupancy Forecasting|2024|arXiv|[FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving](https://arxiv.org/abs/2409.15841)|-|
 |4D Occupancy Forecasting, Motion Planing, and Reasoning|2024|arXiv|[OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving](https://arxiv.org/abs/2409.03272)|-|
