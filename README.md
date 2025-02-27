@@ -113,6 +113,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba](https://www.arxiv.org/abs/2412.08388)|-|
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow](https://arxiv.org/abs/2502.17288)|-|
 |2025|arXiv|[Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance](https://arxiv.org/abs/2502.14520)|-|
 |2025|arXiv|[GaussRender: Learning 3D Occupancy with Gaussian Rendering](https://arxiv.org/abs/2502.05040)|[Code](https://github.com/valeoai/GaussRender)|
 |2025|arXiv|[Event-aided Semantic Scene Completion](https://arxiv.org/abs/2502.02334)|[Code](https://github.com/Pandapan01/EvSSC)|
