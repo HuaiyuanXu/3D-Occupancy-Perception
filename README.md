@@ -107,7 +107,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-|2025|AAAI|[Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2501.07260)|[Code](https://github.com/xrkong/skimba)|
+|2025|AAAI|[Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2501.07260)|[Code](https://github.com/xrkong/skimba)| 
 |2025|AAAI|[ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction](https://arxiv.org/abs/2412.11210)|[Project Page](https://mias.group/ViPOcc/)|
 |2025|AAAI|[ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder](https://arxiv.org/abs/2412.08774)|[Code](https://github.com/SPA-junghokim/ProtoOcc)|
 |2025|AAAI|[LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba](https://www.arxiv.org/abs/2412.08388)|-|
