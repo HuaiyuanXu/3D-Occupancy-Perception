@@ -263,6 +263,11 @@ current limitations and future research directions are discussed.
 |3D Object Detection|2024|AAAI|[SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection](https://arxiv.org/abs/2308.13794)|[Code](https://github.com/zhouqiu/SOGDet)|
 |3D Object Detection|2024|arXiv|[UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height](https://arxiv.org/abs/2409.11160)|-|
 
+### Tracking
+|Specific Task|Year|Venue|Paper Title|Link|
+|:-:|:-:|:-:|-|-|
+|Object Tracking|2025|ICRA|[TrackOcc: Camera-based 4D Panoptic Occupancy Tracking](https://arxiv.org/abs/2503.08471)|[Code](https://github.com/Tsinghua-MARS-Lab/TrackOcc)|
+
 ### Dynamic Perception
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
