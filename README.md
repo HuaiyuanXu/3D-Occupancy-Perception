@@ -115,6 +115,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[AutoOcc: Automatic Open-Ended Semantic Occupancy Annotation via Vision-Language Guided Gaussian Splatting](https://arxiv.org/abs/2502.04981)|-|
 |2025|arXiv|[GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow](https://arxiv.org/abs/2502.17288)|-|
 |2025|arXiv|[Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance](https://arxiv.org/abs/2502.14520)|-|
 |2025|arXiv|[GaussRender: Learning 3D Occupancy with Gaussian Rendering](https://arxiv.org/abs/2502.05040)|[Code](https://github.com/valeoai/GaussRender)|
