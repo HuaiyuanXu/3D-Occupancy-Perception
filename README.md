@@ -107,6 +107,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|CVPR|[3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation](https://arxiv.org/abs/2503.15185)|[Project Page](https://kuai-lab.github.io/cvpr2025protoocc/)| 
 |2025|T-RO|[Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments](https://arxiv.org/abs/2409.11975)|-| 
 |2025|AAAI|[VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion](https://arxiv.org/abs/2503.06219) (Oral)|[Code](https://github.com/willemeng/VLScene)| 
 |2025|AAAI|[Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2501.07260)|[Code](https://github.com/xrkong/skimba)| 
@@ -116,6 +117,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[OccLinker: Deflickering Occupancy Networks through Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438)|-|
 |2025|arXiv|[Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation](https://arxiv.org/abs/2503.07125)|-|
 |2025|arXiv|[Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations](https://arxiv.org/abs/2503.06222)|-|
 |2025|arXiv|[TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting](https://arxiv.org/abs/2503.08485)|-|
