@@ -117,6 +117,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World](https://arxiv.org/abs/2503.16399)|[Code](https://github.com/chenchen235/SA-Occ)|
 |2025|arXiv|[OccLinker: Deflickering Occupancy Networks through Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438)|-|
 |2025|arXiv|[Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation](https://arxiv.org/abs/2503.07125)|-|
 |2025|arXiv|[Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations](https://arxiv.org/abs/2503.06222)|-|
