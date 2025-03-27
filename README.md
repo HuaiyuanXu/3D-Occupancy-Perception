@@ -102,7 +102,7 @@ current limitations and future research directions are discussed.
 |2020|CoRL|[S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds](https://arxiv.org/abs/2012.09242)|-|
 |2020|3DV|[LMSCNet: Lightweight Multiscale 3D Semantic Completion](https://arxiv.org/abs/2008.10559)|[Code](https://github.com/astra-vision/LMSCNet)|
 
-
+ 
 
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
