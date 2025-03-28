@@ -107,6 +107,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|CVPR|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/abs/2412.13193)|[Code](https://github.com/hustvl/GaussTR) |
 |2025|CVPR|[3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation](https://arxiv.org/abs/2503.15185)|[Project Page](https://kuai-lab.github.io/cvpr2025protoocc/)| 
 |2025|T-RO|[Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments](https://arxiv.org/abs/2409.11975)|-| 
 |2025|T-ITS|[GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision](https://arxiv.org/abs/2405.10591)|-|
@@ -168,7 +169,6 @@ current limitations and future research directions are discussed.
 |2024|3DV|[PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2406.07037)|-|
 |2024|IROS|[SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views](https://arxiv.org/abs/2306.09001)|[Code](https://github.com/ai4ce/SSCBench)|
 |2024|arXiv|[GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting](https://arxiv.org/abs/2412.14579)|- |
-|2024|arXiv|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/abs/2412.13193)|[Code](https://github.com/hustvl/GaussTR) |
 |2024|arXiv|[GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction](https://arxiv.org/abs/2412.10373)|[Code](https://github.com/zuosc19/GaussianWorld) |
 |2024|arXiv|[GaussianAD: Gaussian-Centric End-to-End Autonomous Driving](https://arxiv.org/abs/2412.10371)|[Project Page](https://wzzheng.net/GaussianAD) |
 |2024|arXiv|[Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction](https://arxiv.org/abs/2412.08243)|-|
