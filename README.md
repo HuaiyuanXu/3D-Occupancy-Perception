@@ -109,6 +109,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|-|-|
 |2025|CVPR|[3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation](https://arxiv.org/abs/2503.15185)|[Project Page](https://kuai-lab.github.io/cvpr2025protoocc/)| 
 |2025|T-RO|[Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments](https://arxiv.org/abs/2409.11975)|-| 
+|2025|T-ITS|[GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision](https://arxiv.org/abs/2405.10591)|-|
 |2025|AAAI|[VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion](https://arxiv.org/abs/2503.06219) (Oral)|[Code](https://github.com/willemeng/VLScene)| 
 |2025|AAAI|[Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2501.07260)|[Code](https://github.com/xrkong/skimba)| 
 |2025|AAAI|[ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction](https://arxiv.org/abs/2412.11210)|[Project Page](https://mias.group/ViPOcc/)|
@@ -189,7 +190,6 @@ current limitations and future research directions are discussed.
 |2024|arXiv|[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2406.11021)|-|
 |2024|arXiv|[Panoptic-FlashOcc: An Efficient Baseline to Marry Semantic Occupancy with Panoptic via Instance Center](https://arxiv.org/abs/2406.10527)|[Code](https://github.com/Yzichen/FlashOCC)|
 |2024|arXiv|[BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network](https://arxiv.org/abs/2405.17037)|[Code](https://github.com/zzk785089755/BDC)|
-|2024|arXiv|[GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision](https://arxiv.org/abs/2405.10591)|-|
 |2024|arXiv|[OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow](https://arxiv.org/abs/2402.12792)|-|
 |2024|arXiv|[OccFiner: Offboard Occupancy Refinement with Hybrid Propagation](https://arxiv.org/abs/2403.08504)|-|
 |2024|arXiv|[InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction](https://arxiv.org/abs/2401.12422)|[Code](https://github.com/DanielMing123/InverseMatrixVT3D)|
