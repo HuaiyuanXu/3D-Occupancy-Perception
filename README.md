@@ -329,6 +329,7 @@ current limitations and future research directions are discussed.
 ### Unified Autonomous Driving Algorithm Framework
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Occupancy Prediction, 3D Object Detection, Segmentation|2025|AAAI|[M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving](https://arxiv.org/abs/2503.18100)|[Code](https://github.com/Cedarch/M3Net)|
 |Occupancy Prediction, 3D Object Detection, Online Mapping, Multi-object Tracking, Motion Prediction, Motion Planning|2024|CVPR|[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)|-|
 |Occupancy Prediction, 3D Object Detection|2024|RA-L|[UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829)|[Code](https://github.com/chaytonmin/UniScene)|
 |Occupancy Prediction, 3D Object Detection, HD map reconstruction|2024|arXiv|[GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving](https://arxiv.org/abs/2411.12452)|[Code](https://github.com/Public-BOTs/GaussianPretrain)|
