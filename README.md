@@ -119,6 +119,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction](https://arxiv.org/abs/2503.22087)|[Code](https://github.com/moonseokha/StreamOcc)|
 |2025|arXiv|[SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion](https://www.arxiv.org/abs/2503.16825)|[Code](https://github.com/gxytcrc/SGFormer)|
 |2025|arXiv|[L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model](https://arxiv.org/abs/2503.12369)|[Project Page](https://studyingfufu.github.io/L2COcc/)|
 |2025|arXiv|[SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World](https://arxiv.org/abs/2503.16399)|[Code](https://github.com/chenchen235/SA-Occ)|
