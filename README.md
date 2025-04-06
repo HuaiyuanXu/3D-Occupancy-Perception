@@ -224,6 +224,7 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2025|arXiv|[MinkOcc: Towards real-time label-efficient semantic occupancy prediction](https://www.arxiv.org/abs/2504.02270)|-|
 |2025|arXiv|[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](https://arxiv.org/abs/2502.04981)|-|
 |2025|arXiv|[MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies](https://arxiv.org/abs/2501.15384)|[Code](https://github.com/LucasYang567/MetaOcc)|
 |2025|arXiv|[DORACAMOM: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception](https://arxiv.org/abs/2501.15394)|-|
