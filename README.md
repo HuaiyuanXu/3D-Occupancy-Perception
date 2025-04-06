@@ -247,6 +247,7 @@ current limitations and future research directions are discussed.
 
 |Dataset|Year|Venue|Modality|# of Classes|Flow|Link|
 |:-:|:-:|:-:|-|-|-|-|
+|UniOcc|2025|arXiv|Camera|10, 15, 17| ✔️|[Intro.](https://github.com/tasl-lab/UniOcc)|
 |OpenScene|2024|CVPR 2024 Challenge|Camera|-| ✔️|[Intro.](https://github.com/OpenDriveLab/OpenScene)|
 |Cam4DOcc|2024|CVPR|Camera+LiDAR|2| ✔️|[Intro.](https://github.com/haomo-ai/Cam4DOcc)|
 |Occ3D|2024|NeurIPS|Camera|14 (Occ3D-Waymo), 16 (Occ3D-nuScenes)| ❌|[Intro.](https://github.com/Tsinghua-MARS-Lab/Occ3D)|
