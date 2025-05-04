@@ -108,6 +108,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|CVPR|[Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2504.12959)|[Project Page](https://cdb342.github.io/GDFusion/)|
 |2025|CVPR|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/abs/2412.13193)|[Code](https://github.com/hustvl/GaussTR) |
 |2025|CVPR|[3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation](https://arxiv.org/abs/2503.15185)|[Project Page](https://kuai-lab.github.io/cvpr2025protoocc/)| 
 |2025|T-RO|[Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments](https://arxiv.org/abs/2409.11975)|-| 
@@ -119,7 +120,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba](https://www.arxiv.org/abs/2412.08388)|-|
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
-|2024|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
 |2025|arXiv|[Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection](https://arxiv.org/abs/2504.04732)|[Code](https://github.com/DanielMing123/Inverse++)|
 |2025|arXiv|[Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction](https://arxiv.org/abs/2503.22087)|[Code](https://github.com/moonseokha/StreamOcc)|
 |2025|arXiv|[SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion](https://www.arxiv.org/abs/2503.16825)|[Code](https://github.com/gxytcrc/SGFormer)|
