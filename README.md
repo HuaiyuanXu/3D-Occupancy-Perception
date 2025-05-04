@@ -269,8 +269,6 @@ current limitations and future research directions are discussed.
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
 |Indoor Understanding|2025|arXiv|[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/abs/2504.14604)|-|
-|BEV Segmentation|2024|CVPRW|[OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks](https://arxiv.org/abs/2404.14027)|[Code](https://github.com/valeoai/Occfeat)|
-
 
 ### Segmentation
 |Specific Task|Year|Venue|Paper Title|Link|
