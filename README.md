@@ -121,6 +121,7 @@ current limitations and future research directions are discussed.
 |2025|AAAI|[Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559v3)|-|
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction](https://arxiv.org/pdf/2504.19749)|[Code](https://github.com/lzzzzzm/STCOcc)|
 |2025|arXiv|[LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals](https://arxiv.org/abs/2504.13596)|-|
 |2025|arXiv|[Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection](https://arxiv.org/abs/2504.04732)|[Code](https://github.com/DanielMing123/Inverse++)|
 |2025|arXiv|[Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction](https://arxiv.org/abs/2503.22087)|[Code](https://github.com/moonseokha/StreamOcc)|
@@ -228,6 +229,7 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2025|arXiv|[OccCylindrical: Multi-Modal Fusion with Cylindrical Representation for 3D Semantic Occupancy Prediction](https://www.arxiv.org/abs/2505.03284)|[Code](https://github.com/DanielMing123/OccCylindrical)|
 |2025|arXiv|[MinkOcc: Towards real-time label-efficient semantic occupancy prediction](https://www.arxiv.org/abs/2504.02270)|-|
 |2025|arXiv|[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](https://arxiv.org/abs/2502.04981)|-|
 |2025|arXiv|[MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies](https://arxiv.org/abs/2501.15384)|[Code](https://github.com/LucasYang567/MetaOcc)|
