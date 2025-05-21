@@ -271,6 +271,7 @@ current limitations and future research directions are discussed.
 ### Robotics
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Robot World Model|2025|arXiv|[Occupancy World Model for Robots](https://www.arxiv.org/abs/2505.05512)|-|
 |Indoor Understanding|2025|arXiv|[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/abs/2504.14604)|-|
 
 ### Segmentation
