@@ -229,6 +229,7 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2025|arXiv|[GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention](https://arxiv.org/abs/2505.10685)|[Project Page](https://lunarlab-gatech.github.io/GaussianFormer3D/)|
 |2025|arXiv|[OccCylindrical: Multi-Modal Fusion with Cylindrical Representation for 3D Semantic Occupancy Prediction](https://www.arxiv.org/abs/2505.03284)|[Code](https://github.com/DanielMing123/OccCylindrical)|
 |2025|arXiv|[MinkOcc: Towards real-time label-efficient semantic occupancy prediction](https://www.arxiv.org/abs/2504.02270)|-|
 |2025|arXiv|[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](https://arxiv.org/abs/2502.04981)|-|
