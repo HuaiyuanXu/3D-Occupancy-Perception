@@ -223,6 +223,7 @@ current limitations and future research directions are discussed.
 ### Radar-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|arXiv|[4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision](https://arxiv.org/abs/2505.13905)|[Code](https://github.com/CLASS-Lab/4D-ROLLS)|
 |2024|NeurIPS|[RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar](https://arxiv.org/abs/2405.14014)|-|
 
 
