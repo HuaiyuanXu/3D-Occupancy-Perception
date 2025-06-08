@@ -276,8 +276,9 @@ current limitations and future research directions are discussed.
 ### Robotics
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|Robot World Model|2025|arXiv|[Occupancy World Model for Robots](https://www.arxiv.org/abs/2505.05512)|-|
-|Indoor Understanding|2025|arXiv|[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/abs/2504.14604)|-|
+|Video Generation|2025|arXiv|[ORV: 4D Occupancy-centric Robot Video Generation](https://arxiv.org/abs/2506.03079)|[Project Page](https://orangesodahub.github.io/ORV/)|
+|World Model|2025|arXiv|[Occupancy World Model for Robots](https://www.arxiv.org/abs/2505.05512)|-|
+|Perception|2025|arXiv|[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/abs/2504.14604)|-|
 
 ### Segmentation
 |Specific Task|Year|Venue|Paper Title|Link|
