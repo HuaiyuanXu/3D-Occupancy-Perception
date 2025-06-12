@@ -137,7 +137,7 @@ current limitations and future research directions are discussed.
 |2025|arXiv|[OccLinker: Deflickering Occupancy Networks through Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438)|-|
 |2025|arXiv|[Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation](https://arxiv.org/abs/2503.07125)|-|
 |2025|arXiv|[Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations](https://arxiv.org/abs/2503.06222)|-|
-|2025|arXiv|[TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting](https://arxiv.org/abs/2503.08485)|-|
+|2025|arXiv|[TT-Occ: Test-Time Compute for Self-Supervised Occupancy via Spatio-Temporal Gaussian Splatting](https://arxiv.org/abs/2503.08485)|[Code](https://github.com/Xian-Bei/TT-Occ)|
 |2025|arXiv|[AutoOcc: Automatic Open-Ended Semantic Occupancy Annotation via Vision-Language Guided Gaussian Splatting](https://arxiv.org/abs/2502.04981)|-|
 |2025|arXiv|[GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow](https://arxiv.org/abs/2502.17288)|-|
 |2025|arXiv|[Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance](https://arxiv.org/abs/2502.14520)|-|
