@@ -123,6 +123,7 @@ current limitations and future research directions are discussed.
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2025|ICRA|[Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://www.arxiv.org/abs/2505.23115)|-|
 |2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[ODG: Occupancy Prediction Using Dual Gaussians](https://www.arxiv.org/abs/2506.09417)|-|
 |2025|arXiv|[S2GO: Streaming Sparse Gaussian Occupancy Prediction](https://www.arxiv.org/abs/2506.05473)|-|
 |2025|arXiv|[VoxDet: Rethinking 3D Semantic Occupancy Prediction as Dense Object Detection](https://www.arxiv.org/abs/2506.04623)|[Project Page](https://vita-epfl.github.io/VoxDet/)|
 |2025|arXiv|[SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels](https://arxiv.org/abs/2505.22461)|[Code](https://github.com/ge95net/SHTOcc)|
