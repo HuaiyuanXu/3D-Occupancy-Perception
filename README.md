@@ -123,6 +123,7 @@ current limitations and future research directions are discussed.
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2025|ICRA|[Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://www.arxiv.org/abs/2505.23115)|-|
 |2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[GraphGSOcc: Semantic and Geometric Graph Transformer for 3D Gaussian Splating-based Occupancy Prediction](https://arxiv.org/abs/2506.14825)|-|
 |2025|arXiv|[QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2506.10977)|[Project Page](https://zuosc19.github.io/QuadricFormer/)|
 |2025|arXiv|[ODG: Occupancy Prediction Using Dual Gaussians](https://www.arxiv.org/abs/2506.09417)|-|
 |2025|arXiv|[S2GO: Streaming Sparse Gaussian Occupancy Prediction](https://www.arxiv.org/abs/2506.05473)|-|
@@ -278,6 +279,11 @@ current limitations and future research directions are discussed.
 
 
 ## Occupancy-based Applications
+### Indoor Ego-Centric
+|Specific Task|Year|Venue|Paper Title|Link|
+|:-:|:-:|:-:|-|-|
+|ndoor Occupancy Prediction|2025|arXiv|[YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos](https://arxiv.org/abs/2506.18266)|-|
+
 ### Robotics
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
