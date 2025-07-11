@@ -108,6 +108,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|ICCV|[Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/abs/2507.06230)|[Project Page](https://visinf.github.io/scenedino/)|
 |2025|CVPR|[VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction](https://www.arxiv.org/abs/2506.05563)|[Project Page](https://zzy816.github.io/VoxelSplat-Demo/)|
 |2025|CVPR|[Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2504.12959)|[Project Page](https://cdb342.github.io/GDFusion/)|
 |2025|CVPR|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/abs/2412.13193)|[Code](https://github.com/hustvl/GaussTR) |
