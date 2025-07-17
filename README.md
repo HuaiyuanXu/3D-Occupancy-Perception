@@ -348,6 +348,7 @@ current limitations and future research directions are discussed.
 |4D Occupancy Forecasting and Motion Planing|2025|ICRA|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
 |4D Occupancy Forecasting, Motion Planing, and Scene Understanding|2025|ICRA|[Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models](https://arxiv.org/abs/2502.06419)|-|
 |4D Occupancy Forecasting|2025|arXiv|[COME: Adding Scene-Centric Forecasting Control to Occupancy World Model](https://www.arxiv.org/abs/2506.13260)|[Code](https://github.com/synsin0/COME)|
+|4D Occupancy Forecasting and Generation|2025|arXiv|[I2-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting](https://www.arxiv.org/abs/2507.09144)|[Code](https://github.com/lzzzzzm/II-World)|
 |4D Occupancy Forecasting and Motion Planing|2025|arXiv|[Temporal Triplane Transformers as Occupancy World Models](https://arxiv.org/abs/2503.07338)|-|
 |4D Occupancy Forecasting|2025|arXiv|[LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438)|-|
 |4D Occupancy Forecasting and Motion Planing|2024|ECCV|[OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)|[Project Page](https://wzzheng.net/OccWorld/)|
