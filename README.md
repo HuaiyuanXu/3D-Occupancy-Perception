@@ -108,6 +108,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|ICCV|[GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting](https://www.arxiv.org/abs/2507.19451)|[Project Page](https://gs-occ3d.github.io/)|
 |2025|ICCV|[Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion](https://arxiv.org/abs/2507.08555)|[Code](https://github.com/Enyu-Liu/DISC)|
 |2025|ICCV|[Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/abs/2507.06230)|[Project Page](https://visinf.github.io/scenedino/)|
 |2025|CVPR|[VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction](https://www.arxiv.org/abs/2506.05563)|[Project Page](https://zzy816.github.io/VoxelSplat-Demo/)|
