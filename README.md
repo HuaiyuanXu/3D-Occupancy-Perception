@@ -308,6 +308,7 @@ current limitations and future research directions are discussed.
 ### Detection
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|3D Object Detection|2025|ICONIP|[Collaborative Perceiver: Elevating Vision-based 3D Object Detection via Local Density-Aware Spatial Occupancy](https://arxiv.org/abs/2507.21358)|[Code](https://github.com/jichengyuan/Collaborative-Perceiver)|
 |3D Object Detection|2024|NeurIPS|[Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection](https://arxiv.org/abs/2412.05154)|[Code](https://github.com/Ghostish/ObjectCentricOccCompletion)|
 |3D Object Detection|2024|CVPR|[Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/abs/2305.15694)|[Code](https://github.com/SPengLiang/OccupancyM3D)|
 |3D Object Detection|2024|AAAI|[SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection](https://arxiv.org/abs/2308.13794)|[Code](https://github.com/zhouqiu/SOGDet)|
