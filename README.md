@@ -291,7 +291,8 @@ current limitations and future research directions are discussed.
 ### Indoor Ego-Centric
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
-|ndoor Occupancy Prediction|2025|arXiv|[YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos](https://arxiv.org/abs/2506.18266)|-|
+|Indoor Occupancy Prediction|2025|arXiv|[SplatSSC: Decoupled Depth-Guided Gaussian Splatting for Semantic Scene Completion](https://arxiv.org/abs/2508.02261)|-|
+|Indoor Occupancy Prediction|2025|arXiv|[YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos](https://arxiv.org/abs/2506.18266)|-|
 
 ### Robotics
 |Specific Task|Year|Venue|Paper Title|Link|
