@@ -108,6 +108,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|ICCV|[Semantic Causality-Aware Vision-Based 3D Occupancy Prediction](https://arxiv.org/abs/2509.08388)|[Code](https://github.com/cdb342/CausalOcc)|
 |2025|ICCV|[Occupancy Learning with Spatiotemporal Memory](https://www.arxiv.org/abs/2508.04705)|[Project Page](https://matthew-leng.github.io/stocc)|
 |2025|ICCV|[GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting](https://www.arxiv.org/abs/2507.19451)|[Project Page](https://gs-occ3d.github.io/)|
 |2025|ICCV|[Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion](https://arxiv.org/abs/2507.08555)|[Code](https://github.com/Enyu-Liu/DISC)|
