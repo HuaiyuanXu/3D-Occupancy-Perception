@@ -108,6 +108,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|ICCV|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
 |2025|ICCV|[Semantic Causality-Aware Vision-Based 3D Occupancy Prediction](https://arxiv.org/abs/2509.08388)|[Code](https://github.com/cdb342/CausalOcc)|
 |2025|ICCV|[Occupancy Learning with Spatiotemporal Memory](https://www.arxiv.org/abs/2508.04705)|[Project Page](https://matthew-leng.github.io/stocc)|
 |2025|ICCV|[GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting](https://www.arxiv.org/abs/2507.19451)|[Project Page](https://gs-occ3d.github.io/)|
@@ -207,7 +208,6 @@ current limitations and future research directions are discussed.
 |2024|arXiv|[ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning](https://www.arxiv.org/abs/2409.18026)|-|
 |2024|arXiv|[Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction](https://arxiv.org/abs/2409.07972)|[Code](https://github.com/yanzq95/DHD)|
 |2024|arXiv|[AdaOcc: Adaptive-Resolution Occupancy Prediction](https://arxiv.org/abs/2408.13454)|-|
-|2024|arXiv|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
 |2024|arXiv|[MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering](https://arxiv.org/abs/2408.11464)|[Code](https://github.com/Hub-Tian/MambaOcc)|
 |2024|arXiv|[VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2408.03551)|-|
 |2024|arXiv|[UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/abs/2401.06994)|[Code](https://github.com/Cc-Hy/UniVision)|
