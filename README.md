@@ -109,6 +109,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2025|ICCV|[MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception](https://arxiv.org/abs/2509.17462)|[Code](https://github.com/rkdckddnjs9/MAESTRO)|
 |2025|ICCV|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
 |2025|ICCV|[Semantic Causality-Aware Vision-Based 3D Occupancy Prediction](https://arxiv.org/abs/2509.08388)|[Code](https://github.com/cdb342/CausalOcc)|
 |2025|ICCV|[Occupancy Learning with Spatiotemporal Memory](https://www.arxiv.org/abs/2508.04705)|[Project Page](https://matthew-leng.github.io/stocc)|
@@ -130,6 +131,7 @@ current limitations and future research directions are discussed.
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2025|ICRA|[Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://www.arxiv.org/abs/2505.23115)|-|
 |2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models](https://www.arxiv.org/abs/2509.26087)|-|
 |2025|arXiv|[ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting](https://arxiv.org/abs/2509.16552)|-|
 |2025|arXiv|[SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion](https://www.arxiv.org/abs/2509.11171)|[Code](https://github.com/PKU-ICST-MIPL/SPHERE_ACMMM2025)|
 |2025|arXiv|[DA-Occ: Efficient 3D Voxel Occupancy Prediction via Directional 2D for Geometric Structure Preservation](https://arxiv.org/abs/2507.23599)|-|
