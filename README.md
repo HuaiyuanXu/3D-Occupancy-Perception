@@ -365,6 +365,7 @@ current limitations and future research directions are discussed.
 |4D Occupancy Forecasting and Generation|2025|AAAI|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|[Project Page](https://drive-occworld.github.io/)|
 |4D Occupancy Forecasting and Motion Planing|2025|ICRA|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
 |4D Occupancy Forecasting, Motion Planing, and Scene Understanding|2025|ICRA|[Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models](https://arxiv.org/abs/2502.06419)|-|
+|4D Occupancy Forecasting and Motion Planing|2025|arXiv|[SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries](https://arxiv.org/abs/2510.17482)|[Code](https://github.com/MSunDYY/SparseWorld)|
 |4D Occupancy Forecasting|2025|arXiv|[COME: Adding Scene-Centric Forecasting Control to Occupancy World Model](https://www.arxiv.org/abs/2506.13260)|[Code](https://github.com/synsin0/COME)|
 |4D Occupancy Forecasting and Motion Planing|2025|arXiv|[Temporal Triplane Transformers as Occupancy World Models](https://arxiv.org/abs/2503.07338)|-|
 |4D Occupancy Forecasting|2025|arXiv|[LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438)|-|
