@@ -256,6 +256,7 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2025|CVPR|[OccMamba: Semantic Occupancy Prediction with State Space Models](https://arxiv.org/abs/2408.09859)|[Code](https://github.com/USTCLH/OccMamba)|
 |2025|IROS|[A Coarse-to-Fine Approach to Multi-Modality 3D Occupancy Grounding](https://www.arxiv.org/abs/2508.01197)|[Code](https://github.com/RONINGOD/GroundingOcc)|
 |2025|arXiv|[OccLE: Label-Efficient 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2505.20617)|-|
 |2025|arXiv|[GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention](https://arxiv.org/abs/2505.10685)|[Project Page](https://lunarlab-gatech.github.io/GaussianFormer3D/)|
@@ -271,7 +272,6 @@ current limitations and future research directions are discussed.
 |2024|arXiv|[Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation](https://arxiv.org/abs/2411.12177)|[Code](https://github.com/ICEORY/REO)|
 |2024|arXiv|[OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2411.03696)|-|
 |2024|arXiv|[DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2409.19972)|[Code](https://github.com/AlphaPlusTT/DAOcc)|
-|2024|arXiv|[OccMamba: Semantic Occupancy Prediction with State Space Models](https://arxiv.org/abs/2408.09859)|-|
 |2024|arXiv|[LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera](https://www.arxiv.org/abs/2407.16197)|[Project Page](https://hr-zju.github.io/LiCROcc/)|
 |2024|arXiv|[OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction](https://arxiv.org/abs/2403.05329)|-|
 |2024|arXiv|[EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network](https://arxiv.org/abs/2406.07042)|[Code](https://github.com/synsin0/EFFOcc)|
