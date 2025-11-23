@@ -133,6 +133,7 @@ current limitations and future research directions are discussed.
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2025|ICRA|[Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://www.arxiv.org/abs/2505.23115)|-|
 |2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation](https://arxiv.org/abs/2511.15396)|-|
 |2025|arXiv|[EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models](https://www.arxiv.org/abs/2509.26087)|-|
 |2025|arXiv|[ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting](https://arxiv.org/abs/2509.16552)|-|
 |2025|arXiv|[SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion](https://www.arxiv.org/abs/2509.11171)|[Code](https://github.com/PKU-ICST-MIPL/SPHERE_ACMMM2025)|
