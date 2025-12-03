@@ -111,6 +111,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|-|-|
 |2026|AAAI|[Towards 3D Object-Centric Feature Learning for Semantic Scene Completion](https://arxiv.org/abs/2511.13031)|-|
 |2026|AAAI|[Towards Temporal Fusion Beyond the Field of View for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2511.12498)|-|
+|2025|T-PAMI|[SPOT: Scalable 3D Pre-training via Occupancy Prediction for Learning Transferable 3D Representations](https://arxiv.org/abs/2309.10527)|[Code](https://github.com/PJLab-ADG/3DTrans)|
 |2025|ICCV|[ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction](https://arxiv.org/abs/2411.07725v2)|[Code](https://github.com/cdb342/ALOcc)|
 |2025|ICCV|[MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception](https://arxiv.org/abs/2509.17462)|[Code](https://github.com/rkdckddnjs9/MAESTRO)|
 |2025|ICCV|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](https://arxiv.org/abs/2408.11447)|[Project Page](https://ganwanshui.github.io/GaussianOcc/)|
@@ -348,11 +349,11 @@ current limitations and future research directions are discussed.
 ### Generation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Scene Generation|2025|T-PAMI|[OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation](https://arxiv.org/abs/2412.11183)|-|
 |Multimodal Scene Generation|2025|CVPR|[UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435)|[Project Page](https://arlo0o.github.io/uniscene/)|
 |Multimodal Scene Generation|2025|arXiv|[Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method](https://arxiv.org/abs/2510.22973)|[Code](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation/tree/v2)|
 |Scene Generation|2024|ECCV|[Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085) (Oral paper)|[Code](https://github.com/yuhengliu02/pyramid-discrete-diffusion)|
 |Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
-|Scene Generation|2024|arXiv|[OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation](https://arxiv.org/abs/2412.11183)|-|
 |Scene Generation|2024|arXiv|[InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models](https://arxiv.org/abs/2412.03934)|[Project Page](https://research.nvidia.com/labs/toronto-ai/infinicube/)|
 |Scene Generation|2024|arXiv|[SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs](https://arxiv.org/abs/2410.00337)|[Project Page](https://len-li.github.io/syntheocc-web/)|
 
