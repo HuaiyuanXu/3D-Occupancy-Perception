@@ -267,6 +267,7 @@ current limitations and future research directions are discussed.
 |2025|CVPR|[OccMamba: Semantic Occupancy Prediction with State Space Models](https://arxiv.org/abs/2408.09859)|[Code](https://github.com/USTCLH/OccMamba)|
 |2025|IROS|[A Coarse-to-Fine Approach to Multi-Modality 3D Occupancy Grounding](https://www.arxiv.org/abs/2508.01197)|[Code](https://github.com/RONINGOD/GroundingOcc)|
 |2025|IROS|[REOcc: Camera-Radar Fusion with Radar Feature Enrichment for 3D Occupancy Prediction](https://arxiv.org/abs/2511.06666)|-|
+|2025|arXiv|[DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning](https://arxiv.org/abs/2512.12799)|[Code](https://github.com/happinesslz/DrivePI)|
 |2025|arXiv|[OccLE: Label-Efficient 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2505.20617)|-|
 |2025|arXiv|[GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention](https://arxiv.org/abs/2505.10685)|[Project Page](https://lunarlab-gatech.github.io/GaussianFormer3D/)|
 |2025|arXiv|[OccCylindrical: Multi-Modal Fusion with Cylindrical Representation for 3D Semantic Occupancy Prediction](https://www.arxiv.org/abs/2505.03284)|[Code](https://github.com/DanielMing123/OccCylindrical)|
