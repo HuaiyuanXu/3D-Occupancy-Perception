@@ -354,6 +354,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|:-:|-|-|
 |Scene Generation|2025|T-PAMI|[OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation](https://arxiv.org/abs/2412.11183)|-|
 |Multimodal Scene Generation|2025|CVPR|[UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435)|[Project Page](https://arlo0o.github.io/uniscene/)|
+|Scene Generation|2025|arXiv|[GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation](https://arxiv.org/abs/2512.12751)|[Project Page](https://huster-yzy.github.io/geniedrive_project_page/)|
 |Multimodal Scene Generation|2025|arXiv|[Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method](https://arxiv.org/abs/2510.22973)|[Code](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation/tree/v2)|
 |Scene Generation|2024|ECCV|[Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085) (Oral paper)|[Code](https://github.com/yuhengliu02/pyramid-discrete-diffusion)|
 |Scene Generation|2024|CVPR|[SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/abs/2403.07773)|[Code](https://github.com/zoomin-lee/SemCity)|
