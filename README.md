@@ -135,6 +135,7 @@ current limitations and future research directions are discussed.
 |2025|ICRA|[OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction](https://arxiv.org/abs/2503.10605)|[Code](https://github.com/ika-rwth-aachen/OCCUQ)|
 |2025|ICRA|[Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://www.arxiv.org/abs/2505.23115)|-|
 |2025|AAAIW|[A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2401.13785)|[Project Page](https://cepdnaclk.github.io/e17-4yp-S2TPVFormer/)|
+|2025|arXiv|[HyGE-Occ: Hybrid View-Transformation with 3D Gaussian and Edge Priors for 3D Panoptic Occupancy Prediction](https://arxiv.org/abs/2512.19871)|-|
 |2025|arXiv|[VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2512.18954)|[Code](https://github.com/dzrdzrdzr/VOIC)|
 |2025|arXiv|[Enhancing 3D Semantic Scene Completion with a Refinement Module](https://arxiv.org/abs/2512.18363)|[Project Page](https://github.com/LuckyMax0722/ESSC-RM)|
 |2025|arXiv|[VG3T: Visual Geometry Grounded Gaussian Transformer](https://www.arxiv.org/abs/2512.05988)|-|
