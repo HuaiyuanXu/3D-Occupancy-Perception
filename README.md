@@ -407,6 +407,7 @@ current limitations and future research directions are discussed.
 ### Unified Autonomous Driving Algorithm Framework
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Occupancy Forecasting, Reasoning|2026|arXiv|[SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning](https://arxiv.org/abs/2601.06474)|[Project Page](https://msundyy.github.io/SparseOccVLA/)|
 |Occupancy Prediction, 3D Object Detection, Segmentation|2025|AAAI|[M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving](https://arxiv.org/abs/2503.18100)|[Code](https://github.com/Cedarch/M3Net)|
 |Occupancy Prediction, Occupancy Forecasting, Planning, and Understanding|2025|arXiv|[DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning](https://arxiv.org/abs/2512.12799)|[Code](https://github.com/happinesslz/DrivePI)|
 |Occupancy Prediction and Planning|2025|arXiv|[OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision](https://arxiv.org/abs/2509.05578)|-|
