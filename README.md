@@ -88,6 +88,7 @@ current limitations and future research directions are discussed.
 ### LiDAR-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|arXiv|[LiFlow: Flow Matching for 3D LiDAR Scene Completion](https://arxiv.org/abs/2602.02232) |[Code](https://github.com/matteandre/LiFlow)|
 |2025|arXiv|[Octree Latent Diffusion for Semantic 3D Scene Generation and Completion](https://arxiv.org/abs/2509.16483) |-|
 |2025|arXiv|[Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion](https://arxiv.org/abs/2504.11447) |[Code](https://github.com/happyw1nd/DistillationDPO)|
 |2024|NeurIPS|[TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight](https://arxiv.org/abs/2410.15674) |[Code](https://github.com/blue-531/TALoS)|
