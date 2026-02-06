@@ -113,6 +113,7 @@ current limitations and future research directions are discussed.
 |2026|T-IP|[Multi-Resolution Alignment for Voxel Sparsity in Camera-Based 3D Semantic Scene Completion](https://arxiv.org/abs/2602.03371v1)|[Code](https://github.com/PKU-ICST-MIPL/MRA_TIP)|
 |2026|AAAI|[Towards 3D Object-Centric Feature Learning for Semantic Scene Completion](https://arxiv.org/abs/2511.13031)|-|
 |2026|AAAI|[Towards Temporal Fusion Beyond the Field of View for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2511.12498)|-|
+|2026|arXiv|[SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction](https://www.arxiv.org/abs/2602.04240)|[Code](https://github.com/chensuzeyu/SpotOcc)|
 |2025|T-PAMI|[SPOT: Scalable 3D Pre-training via Occupancy Prediction for Learning Transferable 3D Representations](https://arxiv.org/abs/2309.10527)|[Code](https://github.com/PJLab-ADG/3DTrans)|
 |2025|ICCV|[ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction](https://arxiv.org/abs/2411.07725v2)|[Code](https://github.com/cdb342/ALOcc)|
 |2025|ICCV|[MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception](https://arxiv.org/abs/2509.17462)|[Code](https://github.com/rkdckddnjs9/MAESTRO)|
