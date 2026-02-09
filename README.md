@@ -88,6 +88,7 @@ current limitations and future research directions are discussed.
 ### LiDAR-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|arXiv|[TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/abs/2602.06400) |[Code](https://github.com/DanielMing123/TFusionOcc)|
 |2026|arXiv|[LiFlow: Flow Matching for 3D LiDAR Scene Completion](https://arxiv.org/abs/2602.02232) |[Code](https://github.com/matteandre/LiFlow)|
 |2025|arXiv|[Octree Latent Diffusion for Semantic 3D Scene Generation and Completion](https://arxiv.org/abs/2509.16483) |-|
 |2025|arXiv|[Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion](https://arxiv.org/abs/2504.11447) |[Code](https://github.com/happyw1nd/DistillationDPO)|
@@ -113,6 +114,7 @@ current limitations and future research directions are discussed.
 |2026|T-IP|[Multi-Resolution Alignment for Voxel Sparsity in Camera-Based 3D Semantic Scene Completion](https://arxiv.org/abs/2602.03371v1)|[Code](https://github.com/PKU-ICST-MIPL/MRA_TIP)|
 |2026|AAAI|[Towards 3D Object-Centric Feature Learning for Semantic Scene Completion](https://arxiv.org/abs/2511.13031)|-|
 |2026|AAAI|[Towards Temporal Fusion Beyond the Field of View for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2511.12498)|-|
+|2026|arXiv|[Rebenchmarking Unsupervised Monocular 3D Occupancy Prediction](https://arxiv.org/abs/2602.06488)|-|
 |2026|arXiv|[SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction](https://www.arxiv.org/abs/2602.04240)|[Code](https://github.com/chensuzeyu/SpotOcc)|
 |2025|T-PAMI|[SPOT: Scalable 3D Pre-training via Occupancy Prediction for Learning Transferable 3D Representations](https://arxiv.org/abs/2309.10527)|[Code](https://github.com/PJLab-ADG/3DTrans)|
 |2025|ICCV|[ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction](https://arxiv.org/abs/2411.07725v2)|[Code](https://github.com/cdb342/ALOcc)|
