@@ -382,6 +382,7 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting|2026|arXiv|[ForecastOcc: Vision-based Semantic Occupancy Forecasting](https://arxiv.org/abs/2602.08006)|[Project Page](https://forecastocc.cs.uni-freiburg.de/)|
 |4D Occupancy Forecasting and Generation|2025|ICCV|[I2-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting](https://www.arxiv.org/abs/2507.09144)|[Code](https://github.com/lzzzzzm/II-World)|
 |4D Occupancy Forecasting|2025|CVPR|[Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://arxiv.org/abs/2411.14169)|[Code](https://github.com/BIT-XJY/EfficientOCF)|
 |4D Occupancy Forecasting|2025|ICLR|[OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://arxiv.org/abs/2502.15180)|[Code](https://github.com/JLChen-C/OccProphet)|
