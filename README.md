@@ -318,6 +318,7 @@ current limitations and future research directions are discussed.
 ### Indoor Ego-Centric
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Indoor Occupancy Prediction|2026|arXiv|[Parameter-Free Adaptive Multi-Scale Channel-Spatial Attention Aggregation framework for 3D Indoor Semantic Scene Completion Toward Assisting Visually Impaired](https://arxiv.org/abs/2602.16385)|-|
 |Indoor Occupancy Prediction|2025|RA-L|[Enhancing Indoor Occupancy Prediction via Sparse Query-Based Multi-Level Consistent Knowledge Distillation](https://arxiv.org/abs/2602.02318)|[Code](https://github.com/getterupper/DiScene)|
 |Indoor Semantic Scene Completion|2025|arXiv|[TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion](https://www.arxiv.org/abs/2512.00300)|-|
 |Indoor Occupancy Prediction|2025|arXiv|[SplatSSC: Decoupled Depth-Guided Gaussian Splatting for Semantic Scene Completion](https://arxiv.org/abs/2508.02261)|-|
