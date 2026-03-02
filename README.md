@@ -318,6 +318,7 @@ current limitations and future research directions are discussed.
 ### Indoor Ego-Centric
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Indoor Occupancy Prediction|2026|CVPR|[Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](https://arxiv.org/abs/2602.22667)|[Code](https://github.com/JuIvyy/LegoOcc)|
 |Indoor Occupancy Prediction|2026|CVPR|[Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](https://arxiv.org/abs/2602.21552)|[Code](https://github.com/JuIvyy/GPOcc)|
 |Indoor Occupancy Prediction|2026|arXiv|[Parameter-Free Adaptive Multi-Scale Channel-Spatial Attention Aggregation framework for 3D Indoor Semantic Scene Completion Toward Assisting Visually Impaired](https://arxiv.org/abs/2602.16385)|-|
 |Indoor Occupancy Prediction|2025|RA-L|[Enhancing Indoor Occupancy Prediction via Sparse Query-Based Multi-Level Consistent Knowledge Distillation](https://arxiv.org/abs/2602.02318)|[Code](https://github.com/getterupper/DiScene)|
