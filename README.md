@@ -358,6 +358,7 @@ current limitations and future research directions are discussed.
 ### Dynamic Perception
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|3D Flow Prediction|2026|RA-L|[SelfOccFlow: Towards end-to-end self-supervised 3D Occupancy Flow prediction](https://arxiv.org/abs/2602.23894)|-|
 |3D Flow Prediction|2024|CVPR|[Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)|[Code](https://github.com/haomo-ai/Cam4DOcc)|
 |3D Flow Prediction|2024|arXiv|[Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction](https://arxiv.org/abs/2407.07587)|[Project Page](https://eliliu2233.github.io/letoccflow/)|
 
