@@ -381,6 +381,7 @@ current limitations and future research directions are discussed.
 ### Navigation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Navigation|2026|arXiv|[SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation](https://arxiv.org/abs/2603.09163)|[Project Page](https://pku-epic.github.io/SPAN-Nav-Web/)|
 |Navigation|2025|arXiv|[OmniNWM: Omniscient Driving Navigation World Models](https://www.arxiv.org/abs/2510.18313)|[Project Page](https://arlo0o.github.io/OmniNWM/)|
 |Navigation for Air-Ground Robots|2024|RA-L|[HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments](https://arxiv.org/abs/2410.05079)|[Project Page](https://jmwang0117.github.io/HE-Nav/)|
 |Navigation for Air-Ground Robots|2024|ICRA|[AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments](https://arxiv.org/abs/2403.11607)|[Code](https://github.com/jmwang0117/AGRNav)|
