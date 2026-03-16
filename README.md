@@ -115,6 +115,7 @@ current limitations and future research directions are discussed.
 |2026|T-IP|[Multi-Resolution Alignment for Voxel Sparsity in Camera-Based 3D Semantic Scene Completion](https://arxiv.org/abs/2602.03371v1)|[Code](https://github.com/PKU-ICST-MIPL/MRA_TIP)|
 |2026|AAAI|[Towards 3D Object-Centric Feature Learning for Semantic Scene Completion](https://arxiv.org/abs/2511.13031)|-|
 |2026|AAAI|[Towards Temporal Fusion Beyond the Field of View for Camera-based Semantic Scene Completion](https://arxiv.org/abs/2511.12498)|-|
+|2026|arXiv|[O3N: Omnidirectional Open-Vocabulary Occupancy Prediction](https://arxiv.org/abs/2603.12144)|[Code](https://github.com/MengfeiD/O3N)| 
 |2026|arXiv|[M2-Occ: Resilient 3D Semantic Occupancy Prediction for Autonomous Driving with Incomplete Camera Inputs](https://arxiv.org/abs/2603.09737)|[Code](https://github.com/qixi7up/M2-Occ)| 
 |2026|arXiv|[VG3S: Visual Geometry Grounded Gaussian Splatting for Semantic Occupancy Prediction](https://arxiv.org/abs/2603.06210)|-| 
 |2026|arXiv|[Rebenchmarking Unsupervised Monocular 3D Occupancy Prediction](https://arxiv.org/abs/2602.06488)|-|
