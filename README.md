@@ -392,6 +392,7 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Interactive 4D Occupancy Generation|2026|arXiv|[OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space](https://arxiv.org/abs/2604.22240)|-|
 |4D Occupancy Forecasting|2026|arXiv|[ForecastOcc: Vision-based Semantic Occupancy Forecasting](https://arxiv.org/abs/2602.08006)|[Project Page](https://forecastocc.cs.uni-freiburg.de/)|
 |4D Occupancy Forecasting and Generation|2025|ICCV|[I2-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting](https://www.arxiv.org/abs/2507.09144)|[Code](https://github.com/lzzzzzm/II-World)|
 |4D Occupancy Forecasting|2025|CVPR|[Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://arxiv.org/abs/2411.14169)|[Code](https://github.com/BIT-XJY/EfficientOCF)|
@@ -424,6 +425,7 @@ current limitations and future research directions are discussed.
 ### Unified Autonomous Driving Algorithm Framework
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Perception and Understanding|2026|arXiv|[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)|-|
 |Occupancy Forecasting, Reasoning|2026|arXiv|[SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning](https://arxiv.org/abs/2601.06474)|[Project Page](https://msundyy.github.io/SparseOccVLA/)|
 |Occupancy Prediction, 3D Object Detection, Segmentation|2025|AAAI|[M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving](https://arxiv.org/abs/2503.18100)|[Code](https://github.com/Cedarch/M3Net)|
 |Occupancy Prediction, Occupancy Forecasting, Planning, and Understanding|2025|arXiv|[DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning](https://arxiv.org/abs/2512.12799)|[Code](https://github.com/happinesslz/DrivePI)|
