@@ -336,6 +336,8 @@ current limitations and future research directions are discussed.
 ### Robotics
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Occupancy for UAV|2026|arXiv|[SkyShield: Occupancy as a Safety Interface for Low-Altitude UAV Autonomy](https://arxiv.org/abs/2606.00747)|-|
+|Occupancy for Robotic Manipulation|2026|arXiv|[Trans2Occ: Voxel Occupancy Estimation and Grasp for Transparent Objects from Simulation to Reality](https://arxiv.org/abs/2606.01777)|-|
 |Occupancy for Mobile Robots|2025|arXiv|[MobileOcc: A Human-Aware Semantic Occupancy Dataset for Mobile Robots](https://arxiv.org/abs/2511.16949)|-|
 |Humanoid Occupancy|2025|arXiv|[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/abs/2507.20217)|[Project Page](https://humanoid-occupancy.github.io/)|
 |Video Generation|2025|arXiv|[ORV: 4D Occupancy-centric Robot Video Generation](https://arxiv.org/abs/2506.03079)|[Project Page](https://orangesodahub.github.io/ORV/)|
