@@ -397,6 +397,7 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting|2026|arXiv|[VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models](https://arxiv.org/abs/2606.13460)|-|
 |Interactive 4D Occupancy Generation|2026|arXiv|[OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space](https://arxiv.org/abs/2604.22240)|-|
 |4D Occupancy Forecasting|2026|arXiv|[ForecastOcc: Vision-based Semantic Occupancy Forecasting](https://arxiv.org/abs/2602.08006)|[Project Page](https://forecastocc.cs.uni-freiburg.de/)|
 |4D Occupancy Forecasting and Generation|2025|ICCV|[I2-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting](https://www.arxiv.org/abs/2507.09144)|[Code](https://github.com/lzzzzzm/II-World)|
