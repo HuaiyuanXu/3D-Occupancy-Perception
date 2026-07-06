@@ -377,6 +377,7 @@ current limitations and future research directions are discussed.
 ### Generation
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|Scene Generation|2026|arXiv|[InfiniVerse: Occupancy Guided Unbounded Scene Generation for Autonomous Driving](https://arxiv.org/abs/2606.31109)|-|
 |Scene Generation|2026|arXiv|[AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond](https://arxiv.org/abs/2605.26113)|[Project Page](https://mind-omni.github.io/)|
 |Scene Generation|2025|T-PAMI|[OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation](https://arxiv.org/abs/2412.11183)|-|
 |Multimodal Scene Generation|2025|CVPR|[UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435)|[Project Page](https://arlo0o.github.io/uniscene/)|
