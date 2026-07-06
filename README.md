@@ -88,6 +88,7 @@ current limitations and future research directions are discussed.
 ### LiDAR-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|arXiv|[Semantic Occupancy Prediction with Dual Range-Voxel Representation](https://arxiv.org/abs/2606.31688) |[Code](https://github.com/chenst27/DRVR)|
 |2026|arXiv|[TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/abs/2602.06400) |[Code](https://github.com/DanielMing123/TFusionOcc)|
 |2026|arXiv|[LiFlow: Flow Matching for 3D LiDAR Scene Completion](https://arxiv.org/abs/2602.02232) |[Code](https://github.com/matteandre/LiFlow)|
 |2025|arXiv|[Octree Latent Diffusion for Semantic 3D Scene Generation and Completion](https://arxiv.org/abs/2509.16483) |-|
@@ -278,6 +279,7 @@ current limitations and future research directions are discussed.
 ### Multi-Modal Occupancy Perception
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2026|ICLR|[GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746)|-|
 |2025|CVPR|[OccMamba: Semantic Occupancy Prediction with State Space Models](https://arxiv.org/abs/2408.09859)|[Code](https://github.com/USTCLH/OccMamba)|
 |2025|IROS|[A Coarse-to-Fine Approach to Multi-Modality 3D Occupancy Grounding](https://www.arxiv.org/abs/2508.01197)|[Code](https://github.com/RONINGOD/GroundingOcc)|
 |2025|IROS|[REOcc: Camera-Radar Fusion with Radar Feature Enrichment for 3D Occupancy Prediction](https://arxiv.org/abs/2511.06666)|-|
