@@ -112,6 +112,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|ECCV|[Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2607.01928)|-|
 |2026|CVPR|[Deformable Gaussian Occupancy: Decoupling Rigid and Nonrigid Motion with Factorized Distillation](https://arxiv.org/abs/2605.28587)|[Code](https://github.com/vita-epfl/DeGO)|
 |2026|CVPR|[Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](https://arxiv.org/abs/2604.05780)|[Code](https://github.com/xyandtyh/VoxSAMNet)|
 |2026|CVPR|[Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving](https://arxiv.org/abs/2603.01007)|-|
