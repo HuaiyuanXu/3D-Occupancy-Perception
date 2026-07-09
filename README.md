@@ -112,6 +112,7 @@ current limitations and future research directions are discussed.
 ### Vision-Centric Occupancy Perception
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2026|ECCV|[FDR-Occ: Factorized Dense Routing for Full-Spectrum 3D Occupancy Prediction](https://arxiv.org/abs/2607.03822)|-|
 |2026|ECCV|[Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2607.01928)|-|
 |2026|CVPR|[Deformable Gaussian Occupancy: Decoupling Rigid and Nonrigid Motion with Factorized Distillation](https://arxiv.org/abs/2605.28587)|[Code](https://github.com/vita-epfl/DeGO)|
 |2026|CVPR|[Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](https://arxiv.org/abs/2604.05780)|[Code](https://github.com/xyandtyh/VoxSAMNet)|
