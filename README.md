@@ -332,6 +332,7 @@ current limitations and future research directions are discussed.
 |Indoor Occupancy Prediction|2026|ECCV|[Feed-forward Likelihood Maximization for Efficient Indoor Occupancy Prediction](https://arxiv.org/abs/2606.21373v1)|[Project Page](https://gcchen97.github.io/flm-occ/)|
 |Indoor Occupancy Prediction|2026|CVPR (oral, best paper candidate)|[Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](https://arxiv.org/abs/2602.22667)|[Code](https://github.com/JuIvyy/LegoOcc)|
 |Indoor Occupancy Prediction|2026|CVPR|[Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](https://arxiv.org/abs/2602.21552)|[Code](https://github.com/JuIvyy/GPOcc)|
+|Indoor Occupancy Prediction|2026|arXiv|[GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory](https://arxiv.org/abs/2607.05543)|[Project Page](https://zhuhu00.top/GEM-Occ/)|
 |Indoor 3D Scene Understanding|2026|arXiv|[Occ-VLM: Occupancy-Enhanced Vision-Language Model for 3D Scene Understanding](https://arxiv.org/abs/2606.19776)|[Code](https://github.com/NorthSummer/Occ-VLM)|
 |Indoor Occupancy Prediction|2026|arXiv|[VEOcc: Voxel-Centric Online Semantic Occupancy Prediction For Embodied Scene Understanding](https://arxiv.org/abs/2605.25059)|[Project Page](https://wryzju.github.io/VEOcc/)|
 |Indoor Occupancy Prediction|2026|arXiv|[Parameter-Free Adaptive Multi-Scale Channel-Spatial Attention Aggregation framework for 3D Indoor Semantic Scene Completion Toward Assisting Visually Impaired](https://arxiv.org/abs/2602.16385)|-|
