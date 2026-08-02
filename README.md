@@ -283,6 +283,7 @@ current limitations and future research directions are discussed.
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 |2026|ICLR|[GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746)|-|
+|2026|arXiv|[Learning Adaptive Semantic Gaussian Allocation for 3D Occupancy](https://arxiv.org/abs/2607.21896)|-|
 |2026|arXiv|[4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception](https://arxiv.org/abs/2607.09629)|-|
 |2025|CVPR|[OccMamba: Semantic Occupancy Prediction with State Space Models](https://arxiv.org/abs/2408.09859)|[Code](https://github.com/USTCLH/OccMamba)|
 |2025|IROS|[A Coarse-to-Fine Approach to Multi-Modality 3D Occupancy Grounding](https://www.arxiv.org/abs/2508.01197)|[Code](https://github.com/RONINGOD/GroundingOcc)|
