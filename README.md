@@ -411,6 +411,7 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting|2026|ECCV|[Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting](https://arxiv.org/abs/2608.15279)|[Code](https://github.com/chenst27/GAST)|
 |4D Occupancy Forecasting|2026|arXiv|[VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models](https://arxiv.org/abs/2606.13460)|-|
 |4D Occupancy Forecasting|2026|arXiv|[InterOCF: Spatio-Temporal 2D-3D Interaction for Camera-Only 4D Occupancy Forecasting](https://arxiv.org/abs/2607.24431)|-|
 |Interactive 4D Occupancy Generation|2026|arXiv|[OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space](https://arxiv.org/abs/2604.22240)|-|
