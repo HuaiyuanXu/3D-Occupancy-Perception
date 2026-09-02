@@ -315,6 +315,7 @@ current limitations and future research directions are discussed.
 
 |Dataset|Year|Venue|Modality|# of Classes|Flow|Link|
 |:-:|:-:|:-:|-|-|-|-|
+|InfraOcc|2026|arXiv|Camera+LiDAR|14 (6 dynamic + 8 static)| ❌|[Intro.](https://github.com/yanglei18/InfraOcc)|
 |UniOcc|2025|ICCV|Camera|10, 15, 17| ✔️|[Intro.](https://github.com/tasl-lab/UniOcc)|
 |OpenScene|2024|CVPR 2024 Challenge|Camera|-| ✔️|[Intro.](https://github.com/OpenDriveLab/OpenScene)|
 |Cam4DOcc|2024|CVPR|Camera+LiDAR|2| ✔️|[Intro.](https://github.com/haomo-ai/Cam4DOcc)|
