@@ -448,6 +448,7 @@ current limitations and future research directions are discussed.
 ### Unified Autonomous Driving Algorithm Framework
 |Specific Tasks|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|3D Object Detection, Occupancy Prediction, BEV Map Segmentation, Driving VQA, Motion Planning|2026|arXiv|[Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://arxiv.org/abs/2609.00111)|[Code](https://github.com/QwenLM/Qwen-Drive-1.0)|
 |Perception and Understanding|2026|arXiv|[XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484v1)|-|
 |Occupancy Forecasting, Reasoning|2026|arXiv|[SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning](https://arxiv.org/abs/2601.06474)|[Project Page](https://msundyy.github.io/SparseOccVLA/)|
 |Occupancy Prediction, 3D Object Detection, Segmentation|2025|AAAI|[M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving](https://arxiv.org/abs/2503.18100)|[Code](https://github.com/Cedarch/M3Net)|
