@@ -412,6 +412,7 @@ current limitations and future research directions are discussed.
 ### World Models
 |Specific Task|Year|Venue|Paper Title|Link|
 |:-:|:-:|:-:|-|-|
+|4D Occupancy Forecasting Robustness|2026|NeurIPS|[OccStress: Stress-Testing the 4D Occupancy Forecasting Chain](https://arxiv.org/abs/2512.15621)|[Code](https://github.com/InSAI-Lab/OccStress)|
 |4D Occupancy Forecasting|2026|ECCV|[Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting](https://arxiv.org/abs/2608.15279)|[Code](https://github.com/chenst27/GAST)|
 |4D Occupancy Forecasting|2026|arXiv|[VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models](https://arxiv.org/abs/2606.13460)|-|
 |4D Occupancy Forecasting|2026|arXiv|[InterOCF: Spatio-Temporal 2D-3D Interaction for Camera-Only 4D Occupancy Forecasting](https://arxiv.org/abs/2607.24431)|-|
@@ -425,7 +426,6 @@ current limitations and future research directions are discussed.
 |4D Occupancy Forecasting and Generation|2025|AAAI|[Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197)|[Project Page](https://drive-occworld.github.io/)|
 |4D Occupancy Forecasting and Motion Planing|2025|ICRA|[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/abs/2409.11356)|-|
 |4D Occupancy Forecasting, Motion Planing, and Scene Understanding|2025|ICRA|[Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models](https://arxiv.org/abs/2502.06419)|-|
-|4D Occupancy Forecasting|2025|arXiv|[OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence](https://arxiv.org/abs/2512.15621v1)|[Code](https://github.com/InSAI-Lab/OccSTeP)|
 |4D Occupancy Forecasting|2025|arXiv|[SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](https://www.arxiv.org/pdf/2511.22039)|[Code](https://github.com/MrPicklesGG/SparseWorld-TC)|
 |4D Occupancy Forecasting and Motion Planing|2025|arXiv|[SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries](https://arxiv.org/abs/2510.17482)|[Code](https://github.com/MSunDYY/SparseWorld)|
 |4D Occupancy Forecasting|2025|arXiv|[COME: Adding Scene-Centric Forecasting Control to Occupancy World Model](https://www.arxiv.org/abs/2506.13260)|[Code](https://github.com/synsin0/COME)|
